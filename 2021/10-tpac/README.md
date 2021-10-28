@@ -11,7 +11,7 @@ The Private Advertising Technology Community Group's first meeting will be [at T
 
 ## Schedule
 
-The meeting will be held on **19–20 May** at **16:00 to 17:00 UTC**. Those times look like this in common time zones:
+The meeting will be held on **29 November** at **16:00 to 17:00 UTC**. Those times look like this in common time zones:
 
 | Start                     | End           | Location      |
 | ------------------------- | ------------- | ------------- |
@@ -36,4 +36,4 @@ We will be taking minutes in IRC. You can join in the [#patcg channel in irc.w3.
 
 ## Logistics 
 
-This is a TPAC meeting and we will use the meeting mechnaims including the Zoom link provided by the TPAC2021 site, which you can find [here](https://web-eur.cvent.com/hub/events/2b77fe3d-2536-467d-b71b-969b2e6419b5/sessions/05b7fd0e-1cba-4e38-b908-90609b8c3802). 
+This is a TPAC meeting and we will use the meeting mechanisms including the Zoom link provided by the TPAC2021 site, which you can find [here](https://web-eur.cvent.com/hub/events/2b77fe3d-2536-467d-b71b-969b2e6419b5/sessions/05b7fd0e-1cba-4e38-b908-90609b8c3802). 
