@@ -27,6 +27,7 @@ The meeting will be held on **29 October** at **16:00 to 17:00 UTC**. Those time
 All times listed below Eastern Daylight Time!
 
 - 12:00-12:15 Introduction to group and chairs 
+  - More detailed links and agenda as slides: https://docs.google.com/presentation/d/1QS6fCw65z34yjLNN-Se9SgyY-DhZULHrhKJvaPe0New/edit?usp=sharing   
 - 12:15-12:45 Charter and scope review
 - 12:45-13:00 Discussion
 
