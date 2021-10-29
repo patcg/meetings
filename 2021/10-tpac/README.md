@@ -37,6 +37,8 @@ All times listed below Eastern Daylight Time!
 
 We will be taking minutes in IRC. You can join in the [#patcg channel in irc.w3.org](https://irc.w3.org/?channels=patcg)
 
+Minutes from IRC: https://www.w3.org/2021/10/29-patcg-minutes.html 
+
 ## Logistics 
 
 This is a TPAC meeting and we will use the meeting mechanisms including the Zoom link provided by the TPAC2021 site, which you can find [here](https://web-eur.cvent.com/hub/events/2b77fe3d-2536-467d-b71b-969b2e6419b5/sessions/05b7fd0e-1cba-4e38-b908-90609b8c3802). 
