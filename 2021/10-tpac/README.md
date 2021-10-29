@@ -11,7 +11,7 @@ The Private Advertising Technology Community Group's first meeting will be [at T
 
 ## Schedule
 
-The meeting will be held on **29-30 October** at **16:00 to 17:00 UTC**. Those times look like this in common time zones:
+The meeting will be held on **29 October** at **16:00 to 17:00 UTC**. Those times look like this in common time zones:
 
 | Start                     | End           | Location      |
 | ------------------------- | ------------- | ------------- |
