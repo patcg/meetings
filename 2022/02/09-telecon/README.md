@@ -48,19 +48,20 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - <= 30m: Call for volunteer editors for [Working Group](https://github.com/patcg/meetings/issues/7) and [Privacy Principles](https://github.com/patcg/meetings/issues/18) document
 - == 5m: Break, free talk, etc...
 - ~ 1h 30m: [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
-	- 20m: Speaker / 10m Q&A
-	- 20m: Speaker / 10m Q&A
-	- 20m: Speaker / 10m Q&A
+	- 20m: @benjaminsavage / 10m Q&A
+	- 20m: @csharrison / 10m Q&A
+	- 20m: @joelpf / 10m Q&A
 
 ### Day 2
 
-- <= 30m Opening Review / Q&A
+- <= 25m Opening Review / Q&A
 - ~ 1h [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
-	- 20m: Speaker / 10m Q&A
-	- 20m: Speaker / 10m Q&A
+	- 20m: Apple Proposal? / 10m Q&A
+	- 15m: Prio/DPF-related "Buckets" - @betuldurak 
+	- 20m: Prio/DPFs / 10m Q&A
 - == 5m Break, free talk, etc...
-- ~1h [Private Ad Measurements Constraints and Conditions discussion.](https://github.com/patcg/meetings/issues/17)
-- <= 25m: [Scheduling next meeting and discussing focus](https://github.com/patcg/meetings/issues/19)
+- ~55m [Private Ad Measurements Constraints and Conditions discussion.](https://github.com/patcg/meetings/issues/17)
+- <= 20m: [Scheduling next meeting and discussing focus](https://github.com/patcg/meetings/issues/19)
 
 ## Minutes
 
