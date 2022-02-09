@@ -59,7 +59,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - ~ 1h [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
 	- 20m: Apple Proposal? on https://github.com/privacycg/private-click-measurement / 10m Q&A
 	- 20m: [@marianapr](https://github.com/marianapr) on Prio/DPFs - https://datatracker.ietf.org/doc/draft-gpew-priv-ppm/ / 10m Q&A
-	- 15m: [@betuldurak](https://github.com/betuldurak) - Prio/DPF-related "Buckets" - @betuldurak 
+	- 15m: [@betuldurak](https://github.com/betuldurak) - Prio/DPF-related "Buckets"
 - == 5m Break, free talk, etc...
 - ~55m [Private Ad Measurements Constraints and Conditions discussion.](https://github.com/patcg/meetings/issues/17)
 	- ~15m presentation via [@erik-anderson](https://github.com/erik-anderson)
