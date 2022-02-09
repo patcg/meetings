@@ -72,4 +72,4 @@ TK
 ## Logistics 
 
 - We will be meeting via [WebEx](https://mit.webex.com/mit/j.php?MTID=mfd0fa61edf8ab8c3f4273dd4ea6631e8).
-- Meeting notes will be taken via Google Docs. [WIP](https://docs.google.com/document/d/1fxRn6JsvUs90fq1Fk-yzjR7rTgCxz0R0-xJ_x80nwxQ/edit?usp=sharing).
+- Meeting notes will be taken [via Google Docs](https://docs.google.com/document/d/1ZH_UOOMSFG5X-l72wIFeQ7h69FFi5S_R_eTyH5JYm4I/edit?usp=sharing).
