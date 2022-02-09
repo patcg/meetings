@@ -49,15 +49,16 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - == 10m: Measurement Scope Discussion from [@martinthomson](https://github.com/martinthomson) 
 - == 5m: Break, free talk, etc...
 - ~ 1h 30m: [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
+	- 30m: PCM Q&A on https://github.com/privacycg/private-click-measurement	
 	- 20m: [@benjaminsavage](https://github.com/benjaminsavage) on https://github.com/patcg/proposals/issues/2 / 10m Q&A
 	- 20m: [@csharrison](https://github.com/csharrison) on https://github.com/WICG/conversion-measurement-api/ / 10m Q&A
-	- 20m: [@joelpf](https://github.com/joelpf) on https://github.com/WICG/privacy-preserving-ads/blob/main/MaskedLARK.md / 10m Q&A
+
 
 ### Day 2
 
 - <= 25m Opening Review / Q&A
 - ~ 1h [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
-	- 20m: Apple Proposal? on https://github.com/privacycg/private-click-measurement / 10m Q&A
+	- 20m: [@joelpf](https://github.com/joelpf) on https://github.com/WICG/privacy-preserving-ads/blob/main/MaskedLARK.md / 10m Q&A
 	- 20m: [@marianapr](https://github.com/marianapr) on Prio/DPFs - https://datatracker.ietf.org/doc/draft-gpew-priv-ppm/ / 10m Q&A
 	- 15m: [@betuldurak](https://github.com/betuldurak) - Prio/DPF-related "Buckets"
 - == 5m Break, free talk, etc...
