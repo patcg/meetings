@@ -46,12 +46,12 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 - <= 40m: Intro, Mode of Work, Resources, Participants, Agenda Check, and time for the various problems that come with getting on a webex and Google Doc
 - <= 25m: Call for volunteer editors for [Working Group](https://github.com/patcg/meetings/issues/7) and [Privacy Principles](https://github.com/patcg/meetings/issues/18) document
-- == 10m: Measurement Scope Discussion from [@martinthomson](https://github.com/martinthomson) 
+- == 10m: Measurement Scope Discussion from [@martinthomson](https://github.com/martinthomson) ([Slides](https://github.com/patcg/meetings/blob/main/2022/02/09-telecon/attribution-moz.pdf))
 - == 5m: Break, free talk, etc...
 - ~ 1h 30m: [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
 	- 30m: PCM Q&A on https://github.com/privacycg/private-click-measurement	
-	- 20m: [@benjaminsavage](https://github.com/benjaminsavage) on https://github.com/patcg/proposals/issues/2 / 10m Q&A
-	- 20m: [@csharrison](https://github.com/csharrison) on https://github.com/WICG/conversion-measurement-api/ / 10m Q&A
+	- 20m: [@benjaminsavage](https://github.com/benjaminsavage) on https://github.com/patcg/proposals/issues/2 / 10m Q&A ([Slides](https://github.com/patcg/meetings/blob/main/2022/02/09-telecon/IPA%20design%20considerations%20-%20PAT-CG%20preso.pdf))
+	- 20m: [@csharrison](https://github.com/csharrison) on https://github.com/WICG/conversion-measurement-api/ / 10m Q&A ([Slides](https://github.com/patcg/meetings/blob/main/2022/02/09-telecon/attribution-tradeoffs-goog.pdf))
 
 
 ### Day 2
