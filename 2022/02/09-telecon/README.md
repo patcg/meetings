@@ -57,7 +57,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 2
 
 - <= 25m Opening Review / Q&A
-- ~ 1h [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
+- ~ 1h 15m [Private Ad Measurement and Attribution concepts](https://github.com/patcg/meetings/issues/9)
 	- 20m: [@joelpf](https://github.com/joelpf) on https://github.com/WICG/privacy-preserving-ads/blob/main/MaskedLARK.md / 10m Q&A
 	- 20m: [@marianapr](https://github.com/marianapr) on Prio/DPFs - https://datatracker.ietf.org/doc/draft-gpew-priv-ppm/ / 10m Q&A
 	- 15m: [@betuldurak](https://github.com/betuldurak) - Prio/DPF-related "Buckets"
