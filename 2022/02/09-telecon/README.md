@@ -74,3 +74,4 @@ TK
 
 - We will be meeting via [WebEx](https://mit.webex.com/mit/j.php?MTID=mfd0fa61edf8ab8c3f4273dd4ea6631e8).
 - Meeting notes will be taken [via Google Docs](https://docs.google.com/document/d/1ZH_UOOMSFG5X-l72wIFeQ7h69FFi5S_R_eTyH5JYm4I/edit?usp=sharing).
+- Side conversations will be conducted in IRC (irc.w3.org#patcg) ([instructions](https://github.com/patcg/meetings)).
