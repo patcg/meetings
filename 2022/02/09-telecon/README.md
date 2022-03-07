@@ -35,9 +35,32 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 		- [Day 2 Start](#day-2-start)
 	- [Table of Contents](#table-of-contents)
 	- [Agenda](#agenda)
-		- [Day 1](#day-1-agenda)
-		- [Day 2](#day-2-agenda)
+		- [Day 1 Agenda](#day-1-agenda)
+		- [Day 2 Agenda](#day-2-agenda)
 	- [Minutes](#minutes)
+		- [Agenda Links](#agenda-links)
+		- [Day 1](#day-1)
+			- [Administrivia](#administrivia)
+			- [Charter for working group](#charter-for-working-group)
+			- [Privacy Principles Document {#privacy-principles-document}](#privacy-principles-document-privacy-principles-document)
+			- [5m Break](#5m-break)
+			- [Measurement Scope Discussion from @martinthomson](#measurement-scope-discussion-from-martinthomson)
+			- [Private Ad Measurement and Attribution concepts](#private-ad-measurement-and-attribution-concepts)
+				- [PCM](#pcm)
+				- [IPA](#ipa)
+				- [Attribution reporting](#attribution-reporting)
+		- [Day 2](#day-2)
+			- [Opening Review / Q&A](#opening-review--qa)
+			- [Private Ad Measurement and Attribution concepts {#private-ad-measurement-and-attribution-concepts}](#private-ad-measurement-and-attribution-concepts-private-ad-measurement-and-attribution-concepts)
+			- [@joelpf Masked LARK / 10m Q&A](#joelpf-masked-lark--10m-qa)
+			- [Marianapr on Prio / DPFs](#marianapr-on-prio--dpfs)
+			- [@betuldurak - Prio/DPF-related "Buckets"](#betuldurak---priodpf-related-buckets)
+			- [5m Break](#5m-break-1)
+			- [Private Ad Measurements Constraints and Conditions discussion](#private-ad-measurements-constraints-and-conditions-discussion)
+			- [5m break](#5m-break-2)
+			- [Scheduling next meeting and discussing focus {#scheduling-next-meeting-and-discussing-focus}](#scheduling-next-meeting-and-discussing-focus-scheduling-next-meeting-and-discussing-focus)
+		- [Participants Day 2](#participants-day-2)
+		- [Participants Day 1](#participants-day-1)
 	- [Logistics](#logistics)
 
 ## Agenda
@@ -69,30 +92,39 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Minutes
 
-- [Private Advertising Technology Community Group Minutes](#private-advertising-technology-community-group-minutes)
-	- [Agenda Links](#agenda-links)
-	- [Day 1](#day-1)
-		- [Administrivia](#administrivia)
-		- [Charter for working group](#charter-for-working-group)
-		- [Privacy Principles Document {#privacy-principles-document}](#privacy-principles-document-privacy-principles-document)
-		- [5m Break](#5m-break)
-		- [Measurement Scope Discussion from @martinthomson](#measurement-scope-discussion-from-martinthomson)
-		- [Private Ad Measurement and Attribution concepts](#private-ad-measurement-and-attribution-concepts)
-			- [PCM](#pcm)
-			- [IPA](#ipa)
-			- [Attribution reporting](#attribution-reporting)
-	- [Day 2](#day-2)
-		- [Opening Review / Q&A](#opening-review--qa)
-		- [Private Ad Measurement and Attribution concepts {#private-ad-measurement-and-attribution-concepts}](#private-ad-measurement-and-attribution-concepts-private-ad-measurement-and-attribution-concepts)
-		- [@joelpf Masked LARK / 10m Q&A](#joelpf-masked-lark--10m-qa)
-		- [Marianapr on Prio / DPFs](#marianapr-on-prio--dpfs)
-		- [@betuldurak - Prio/DPF-related "Buckets"](#betuldurak---priodpf-related-buckets)
-		- [5m Break](#5m-break-1)
-		- [Private Ad Measurements Constraints and Conditions discussion](#private-ad-measurements-constraints-and-conditions-discussion)
-		- [5m break](#5m-break-2)
-		- [Scheduling next meeting and discussing focus {#scheduling-next-meeting-and-discussing-focus}](#scheduling-next-meeting-and-discussing-focus-scheduling-next-meeting-and-discussing-focus)
-	- [Participants Day 2](#participants-day-2)
-	- [Participants Day 1](#participants-day-1)
+- [February 2022 Virtual Meeting](#february-2022-virtual-meeting)
+	- [Schedule](#schedule)
+		- [Day 1 Start](#day-1-start)
+		- [Day 2 Start](#day-2-start)
+	- [Table of Contents](#table-of-contents)
+	- [Agenda](#agenda)
+		- [Day 1 Agenda](#day-1-agenda)
+		- [Day 2 Agenda](#day-2-agenda)
+	- [Minutes](#minutes)
+		- [Agenda Links](#agenda-links)
+		- [Day 1](#day-1)
+			- [Administrivia](#administrivia)
+			- [Charter for working group](#charter-for-working-group)
+			- [Privacy Principles Document {#privacy-principles-document}](#privacy-principles-document-privacy-principles-document)
+			- [5m Break](#5m-break)
+			- [Measurement Scope Discussion from @martinthomson](#measurement-scope-discussion-from-martinthomson)
+			- [Private Ad Measurement and Attribution concepts](#private-ad-measurement-and-attribution-concepts)
+				- [PCM](#pcm)
+				- [IPA](#ipa)
+				- [Attribution reporting](#attribution-reporting)
+		- [Day 2](#day-2)
+			- [Opening Review / Q&A](#opening-review--qa)
+			- [Private Ad Measurement and Attribution concepts {#private-ad-measurement-and-attribution-concepts}](#private-ad-measurement-and-attribution-concepts-private-ad-measurement-and-attribution-concepts)
+			- [@joelpf Masked LARK / 10m Q&A](#joelpf-masked-lark--10m-qa)
+			- [Marianapr on Prio / DPFs](#marianapr-on-prio--dpfs)
+			- [@betuldurak - Prio/DPF-related "Buckets"](#betuldurak---priodpf-related-buckets)
+			- [5m Break](#5m-break-1)
+			- [Private Ad Measurements Constraints and Conditions discussion](#private-ad-measurements-constraints-and-conditions-discussion)
+			- [5m break](#5m-break-2)
+			- [Scheduling next meeting and discussing focus {#scheduling-next-meeting-and-discussing-focus}](#scheduling-next-meeting-and-discussing-focus-scheduling-next-meeting-and-discussing-focus)
+		- [Participants Day 2](#participants-day-2)
+		- [Participants Day 1](#participants-day-1)
+	- [Logistics](#logistics)
 
 ### Agenda Links
 
@@ -122,7 +154,7 @@ Agenda bash - Does anyone want to add or change items on the agenda?
 
 **Aram:** Goal not to discuss active standards, but Apple have made representative available (John W) for any questions we have for today. They won’t be doing a presentation/walkthrough of PCM.
 
-**Sean** **T:** Other question we had was about recording thMOVe session. W3C rules are that we can record if no objections.
+**Sean T:** Other question we had was about recording thMOVe session. W3C rules are that we can record if no objections.
 
 ~Noted an objection therefore **NOT **recording the session
 
@@ -306,7 +338,7 @@ from: [@martinthomson](https://github.com/martinthomson)
 
 * Editor’s Note: [https://github.com/privacycg/private-click-measurement/issues/41](https://github.com/privacycg/private-click-measurement/issues/41) & [https://webkit.org/blog/11940/pcm-click-fraud-prevention-and-attribution-sent-to-advertiser/](https://webkit.org/blog/11940/pcm-click-fraud-prevention-and-attribution-sent-to-advertiser/)
 
-**Ekr**:so we’re on the same page, what exactly is the use case? Payout, anti-fraud, training ML.
+**EKR**:so we’re on the same page, what exactly is the use case? Payout, anti-fraud, training ML.
 
 **JohnW**: about measuring clicks for incoming traffic. Not about viewthrough attribution or non-clicks. This limits the kinds of advertising that can be attributed. Only after-the-fact measurement. Not specific to advertising, can measure any kind of click with this. For example, could measure organic clicks, for a destination site to know where it’s getting traffic from (even if not paid advertising). Navigational tracking also being discussed at privacycg, related to this work. Measuring click-based advertising.
 
@@ -577,7 +609,7 @@ User does not to delete a report in IPA- maybe too strong assumption, as an exam
 
 #### @joelpf Masked LARK / 10m Q&A
 
-**Joel**:I’m Joel Pfeiffer, work on MaskedLARK with collaborators at MS. Charles has presented before. Inspired by Aggregate conversions MPC flow from Google. MaskedLARK is what we believe to be an extension of that. Ideally we’d like to compute a gradient for an ML model.
+**Joel**:I’m Joel Pfeiffer, work on MaskedLARK with collaborators at Microsoft. Charles has presented before. Inspired by Aggregate conversions MPC flow from Google. MaskedLARK is what we believe to be an extension of that. Ideally we’d like to compute a gradient for an ML model.
 
 **Joel**:Related work is the Google proposal for conversion reporting using sMPC for trusted mediator. MPC performs the aggregation and enforces DP in the process. Upon leaving browser, no individual entity has a complete picture of an individual record.
 
@@ -671,47 +703,47 @@ _[scribenick: kleber]_
 
 **Mariana**:Aggregate API with PPM presentation
 
-…: This is sort of in the wrong order vs the previous presentation, since we already did ML and now we're just doing intro MPC aggregation
+**...**: This is sort of in the wrong order vs the previous presentation, since we already did ML and now we're just doing intro MPC aggregation
 
-…: Was very happy to start with MPC as commonly-understood term yesterday.  I'm in the I-love-MPC club!  But just to be sure we all know what it is:
+**...**: Was very happy to start with MPC as commonly-understood term yesterday.  I'm in the I-love-MPC club!  But just to be sure we all know what it is:
 
-…:Encryption and Signatures protect data in transit and at rest.  MPC is the next generation, protecting data while computing on it.  MPC is about enabling computation of a very specific function on a particular dataset without revealing more than the output of the function.  Could include cases where parts of the dataset are owned by different parties.
+**...**:Encryption and Signatures protect data in transit and at rest.  MPC is the next generation, protecting data while computing on it.  MPC is about enabling computation of a very specific function on a particular dataset without revealing more than the output of the function.  Could include cases where parts of the dataset are owned by different parties.
 
-…: I look forward to this being part of the infrastructure of the internet.
+**...**: I look forward to this being part of the infrastructure of the internet.
 
-…: For the aggregate API that Chrome proposed: Differentially private histogram.  Each client contributes a value to some bucket of a differentially-private histogram that we're trying to compute.
+**...**: For the aggregate API that Chrome proposed: Differentially private histogram.  Each client contributes a value to some bucket of a differentially-private histogram that we're trying to compute.
 
-…: Based on the local information on the device (attribution done locally), bucket computed on the device.  Even the choice of bucket is private, since it might reveal on-device private signals.  (If we don't need the bucket to be private, things are different of course.)
+**...**: Based on the local information on the device (attribution done locally), bucket computed on the device.  Even the choice of bucket is private, since it might reveal on-device private signals.  (If we don't need the bucket to be private, things are different of course.)
 
-…: Prio Secret Sharing (Corrigan-Gibbs)
+**...**: Prio Secret Sharing (Corrigan-Gibbs)
 
-…: User's device takes input, splits into two cryptographic shares (neither one alone reveals any information), handed to two servers that can do aggregation
+**...**: User's device takes input, splits into two cryptographic shares (neither one alone reveals any information), handed to two servers that can do aggregation
 
-…: Includes cryptographic range proofs, so that the device can send a proof that the input it's providing is in some pre-specified range, so a malicious client can't mess up the aggregate too much
+**...**: Includes cryptographic range proofs, so that the device can send a proof that the input it's providing is in some pre-specified range, so a malicious client can't mess up the aggregate too much
 
-…: Helper compute servers have one round of communication to verify the range proof, then output the total.  Original work didn't include DP noise, but can easily be added on
+**...**: Helper compute servers have one round of communication to verify the range proof, then output the total.  Original work didn't include DP noise, but can easily be added on
 
-…: Helpers don't need to be online all the time — you can have an "ingestion server" that can't see any data, but can store records for computation later, and can do filtering on some plaintext criteria
+**...**: Helpers don't need to be online all the time — you can have an "ingestion server" that can't see any data, but can store records for computation later, and can do filtering on some plaintext criteria
 
-…: Efficiency costs: Device is contributing to one bucket of a histogram.  If we just used this naively, then PRIO would need us to send information proportional to the number of buckets in a histogram.  But!...
+**...**: Efficiency costs: Device is contributing to one bucket of a histogram.  If we just used this naively, then PRIO would need us to send information proportional to the number of buckets in a histogram.  But!...
 
-…: This system has been used in a couple of places.  Notably, Firefox's privacy-preserving telemetry, and Exposure Notifications Private Analytics from Apple+Google for COVID exposure notifications wth privacy.  This included a way for health officials to get aggregate health metrics, running on iOS and Android devices, large-scale deployment of this technology.
+**...**: This system has been used in a couple of places.  Notably, Firefox's privacy-preserving telemetry, and Exposure Notifications Private Analytics from Apple+Google for COVID exposure notifications wth privacy.  This included a way for health officials to get aggregate health metrics, running on iOS and Android devices, large-scale deployment of this technology.
 
-…: If we want to compute huge histograms (and evidently ads use large histograms), how can we do it?
+**...**: If we want to compute huge histograms (and evidently ads use large histograms), how can we do it?
 
-…: Distributed Point Functions, from paper Lightweight Techniques for Heavy Hitters
+**...**: Distributed Point Functions, from paper Lightweight Techniques for Heavy Hitters
 
-…: Can send a contribution to a bucket of a histogram while sending data only proportional to logarithm of number of buckets, rather than linear
+**...**: Can send a contribution to a bucket of a histogram while sending data only proportional to logarithm of number of buckets, rather than linear
 
-…: Servers need to do more work to make up for it.  Incremental DPFs are cool, go read the [paper](https://eprint.iacr.org/2021/017.pdf), it's fun
+**...**: Servers need to do more work to make up for it.  Incremental DPFs are cool, go read the [paper](https://eprint.iacr.org/2021/017.pdf), it's fun
 
-…: Each server can compute the aggregate for any particular index in this histogram, and they can evaluate the shares of data at that bucket.  Can also do it for any subset of the buckets.  To spare the non-cryptographers, I won't go into the details.  We have an implementation, open-source, please go play with it.
+**...**: Each server can compute the aggregate for any particular index in this histogram, and they can evaluate the shares of data at that bucket.  Can also do it for any subset of the buckets.  To spare the non-cryptographers, I won't go into the details.  We have an implementation, open-source, please go play with it.
 
-…: Benchmarking: costs look within the realm of feasible.  Depends on the size of the histogram.  Exponential domain spaces require some sparsity of filled buckets, won't go into details.
+**...**: Benchmarking: costs look within the realm of feasible.  Depends on the size of the histogram.  Exponential domain spaces require some sparsity of filled buckets, won't go into details.
 
-…:Privacy Preserving Measurement at IETF: compatible with both Prio and the IDPF histograms I presented here.
+**...**:Privacy Preserving Measurement at IETF: compatible with both Prio and the IDPF histograms I presented here.
 
-…: There are always surprising costs, as we found out with Exposure Notification, that's why we've implemented it.
+**...**: There are always surprising costs, as we found out with Exposure Notification, that's why we've implemented it.
 
 **Nick Doty**: Threat model for aggregator — first party that gets all the reports before sending them on.  What can that single party learn?  Are we trusting them to do anything re tampering or learning?
 
@@ -758,43 +790,43 @@ _[scribenick: kleber]_
 
 **Betul**: Microsoft proposal for Oblivious Bucketization — similar to the PRIO buckets goal
 
-…: We thought about this for the attribution reporting, like ARA (as Charlie has abbreviated Chrome's Aggregation Reporting API).
+**...**: We thought about this for the attribution reporting, like ARA (as Charlie has abbreviated Chrome's Aggregation Reporting API).
 
-…: What a report means: each report consists of a key = a bit string, arbitrary length / arbitrary number of features, along with a list of values corresponding to that key.  The values are what you want to aggregate — could be different types of values, will come back to it later.
+**...**: What a report means: each report consists of a key = a bit string, arbitrary length / arbitrary number of features, along with a list of values corresponding to that key.  The values are what you want to aggregate — could be different types of values, will come back to it later.
 
-…: Want privacy protection against aggregation.  Each report will be secret-shared across two aggregators
+**...**: Want privacy protection against aggregation.  Each report will be secret-shared across two aggregators
 
-…: In our protocol (different from Prio or IDPF) we introduce a third server, which makes things much more efficient.  Browsers share all these reports directly to MPC, the reporting origin just interacts with the MPC provider.
+**...**: In our protocol (different from Prio or IDPF) we introduce a third server, which makes things much more efficient.  Browsers share all these reports directly to MPC, the reporting origin just interacts with the MPC provider.
 
-…: We expect some malicious behavior from browsers, and a malicious browser can try to spoil the result of aggregation, need to detect and prevent such behaviors.
+**...**: We expect some malicious behavior from browsers, and a malicious browser can try to spoil the result of aggregation, need to detect and prevent such behaviors.
 
-…: Also we have a threat model aligned with the previous ones: Aggregation servers are presumed to not collude with each other.  More than that, we expect the possibility of a sort of malicious behavior from the servers — we want to differentiate between malicious behaviors of a server that deviates from the protocol in order to learn some information about users, vs. deviating in order to spoil the results.  Motivation for server to spoil accuracy might be lower than motivation to spoil privacy, so we protect against the more dangerous one, don't worry as much about spoiling the total.  We think easier than full protection against all malicious behaviors, but better than honest-but-curious.
+**...**: Also we have a threat model aligned with the previous ones: Aggregation servers are presumed to not collude with each other.  More than that, we expect the possibility of a sort of malicious behavior from the servers — we want to differentiate between malicious behaviors of a server that deviates from the protocol in order to learn some information about users, vs. deviating in order to spoil the results.  Motivation for server to spoil accuracy might be lower than motivation to spoil privacy, so we protect against the more dangerous one, don't worry as much about spoiling the total.  We think easier than full protection against all malicious behaviors, but better than honest-but-curious.
 
-…: Learn differentially private aggregates.  Want to add noise in a controlled manner, in a "malicious-star" threat model, in that an MPC server might be colluding with the reporting origin.  We would like to protect against reporting origin [scribe lost something here]
+**...**: Learn differentially private aggregates.  Want to add noise in a controlled manner, in a "malicious-star" threat model, in that an MPC server might be colluding with the reporting origin.  We would like to protect against reporting origin [scribe lost something here]
 
-…: Flexible query structure: hierarchical querying mechanism, so that you can aggregate over individual features of keys, get histogram over them, and then aggregate over sub-buckets within that later.  Flexible way of structuring, which I don't think other approaches can provide.  Add noise at each hierarchical level of the aggregation; the noise added at a lower level propagates to the higher level later.
+**...**: Flexible query structure: hierarchical querying mechanism, so that you can aggregate over individual features of keys, get histogram over them, and then aggregate over sub-buckets within that later.  Flexible way of structuring, which I don't think other approaches can provide.  Add noise at each hierarchical level of the aggregation; the noise added at a lower level propagates to the higher level later.
 
-…: DP budget is computed in a very formal way, it's all in the paper.  Same privacy guarantees as in Prio or IDPF (didn't know about Prio+DP noise, but Mariana says it's possible).  More flexibility, to build hierarchy, what kind of aggregate on which feature of the key you get a histogram, get this on the fly from the ad tech vendor.
+**...**: DP budget is computed in a very formal way, it's all in the paper.  Same privacy guarantees as in Prio or IDPF (didn't know about Prio+DP noise, but Mariana says it's possible).  More flexibility, to build hierarchy, what kind of aggregate on which feature of the key you get a histogram, get this on the fly from the ad tech vendor.
 
-…: Obviously would like to have better efficiency, so want to use the least expensive computations.  We did this by increasing the communication cost, but doesn't necessarily mean more expensive overall.  Bonus: hierarchy allows better performance for very long keys.
+**...**: Obviously would like to have better efficiency, so want to use the least expensive computations.  We did this by increasing the communication cost, but doesn't necessarily mean more expensive overall.  Bonus: hierarchy allows better performance for very long keys.
 
-…: Details analysis in the paper.
+**...**: Details analysis in the paper.
 
-…: How it works, without details: Original reports go to server1 and server2, those two servers add some dummy reports which add masking to the true counts of aggregation.  The reporting origin cannot tell which are original reports vs dummy reports, because of an oblivious shuffling (this is where the extra communications cost comes from).  After we have these mixed and shuffled dummy reports, we combine the shares, bucketize, output results.
+**...**: How it works, without details: Original reports go to server1 and server2, those two servers add some dummy reports which add masking to the true counts of aggregation.  The reporting origin cannot tell which are original reports vs dummy reports, because of an oblivious shuffling (this is where the extra communications cost comes from).  After we have these mixed and shuffled dummy reports, we combine the shares, bucketize, output results.
 
-…: Two-party secret sharing, then integrate the third server to improve performance of the shuffling.  Get secret shares, add dummy reports, shuffle via third server, reveal result from only two servers, show DP aggregates, and then stop or go to next layer in hierarchy.
+**...**: Two-party secret sharing, then integrate the third server to improve performance of the shuffling.  Get secret shares, add dummy reports, shuffle via third server, reveal result from only two servers, show DP aggregates, and then stop or go to next layer in hierarchy.
 
-…: We've tested the protocol in various settings.  In sparse domain — where key size is large, but number of buckets that are used is small by comparison — tested 32-bit bucket labels but only 2^16 buckets used; slide contains data on performance on a particular system spec.  Shuffling is the most expensive part.
+**...**: We've tested the protocol in various settings.  In sparse domain — where key size is large, but number of buckets that are used is small by comparison — tested 32-bit bucket labels but only 2^16 buckets used; slide contains data on performance on a particular system spec.  Shuffling is the most expensive part.
 
-…: Comparing to DPF via our friends from Google, single user contribution handling is 0.72sec (no sketching or DP) and bucketization with 1M records in 10 seconds.
+**...**: Comparing to DPF via our friends from Google, single user contribution handling is 0.72sec (no sketching or DP) and bucketization with 1M records in 10 seconds.
 
-…: Heavy Hitter with 256-bit key, 400K reports, zipfian distribution to reflect real-world data.  IDPF takes 53min, our version takes 28min instead.
+**...**: Heavy Hitter with 256-bit key, 400K reports, zipfian distribution to reflect real-world data.  IDPF takes 53min, our version takes 28min instead.
 
-…: Overall comparisons slide of Prio-vs-IDPF-vs-Bucketization.  We increased number of aggregators, used different techniques for robustness (no cost, unlike SNIPS or sketching), but there is a cost if we want sums instead of counts.  Some additional benchmarks still in progress.  Additional aggregator buys a lot of flexibility and efficiency.
+**...**: Overall comparisons slide of Prio-vs-IDPF-vs-Bucketization.  We increased number of aggregators, used different techniques for robustness (no cost, unlike SNIPS or sketching), but there is a cost if we want sums instead of counts.  Some additional benchmarks still in progress.  Additional aggregator buys a lot of flexibility and efficiency.
 
-…:  On the Charlie left-right scale, this is a computation vs communication trade-off
+**...**:  On the Charlie left-right scale, this is a computation vs communication trade-off
 
-…: DFP is a successor of Prio; DFP vs Bucketization are orthogonal.  One focuses on a lot of computation on servers which is expensive in MPC land, bucketization uses a lot of communication instead.  Server-to-server communication in PPML, but more communication does not necessarily mean more expensive protocols, as our work shows.
+**...**: DFP is a successor of Prio; DFP vs Bucketization are orthogonal.  One focuses on a lot of computation on servers which is expensive in MPC land, bucketization uses a lot of communication instead.  Server-to-server communication in PPML, but more communication does not necessarily mean more expensive protocols, as our work shows.
 
 **Charlie**: Thanks for the presentation, very informative.  Clarifying questions.  For the benchmark with 2^20 possible keys: did that involve hierarchical evaluation, or just direct?
 
@@ -839,7 +871,7 @@ _[scribenick: kleber]_
 
 **Aram**:intent is to step back and review holistically. Compare and contrast. Understand how to move forward around private measurement. Erik Anderson would like to present a comparison to start us off.
 
-**Eric**:Joel will do this** **aim to be as neutral as possible - please flame if that’s not the case
+**Eric**: Joel will do this, aim to be as neutral as possible - please flame if that’s not the case
 
 **Joel**:Not an expert, will present a distillation at a high level - problems that are trying to be solved, what was can do with them. What spaces they address
 
@@ -1079,6 +1111,7 @@ Group Report.
 74. Bill Densmore (ITEGA.org)
 75. Eli Grey (Transcend)
 76. Richa Jain (Meta)
+77. Eric Rescorla (Mozilla)
 
 
 ### Participants Day 1
@@ -1171,7 +1204,6 @@ Group Report.
 86. Ratko Vidakovic (AdProfs)
 87. Stephen Somerville (MeritB2B)
 88. Daniel Gale (Simplifi)
-89. Eric Rescorla (Mozilla)
 
 ## Logistics 
 
