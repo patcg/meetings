@@ -1,6 +1,6 @@
 ---
 name: Ad-Hoc Meeting template
-about: Use this template to requst an ad-hoc meeting be scheduled
+about: Use this template to request an ad-hoc meeting be scheduled
 title: 'Request for an Ad-Hoc Meeting On: '
 labels: ad-hoc?
 assignees: AramZS, seanturner
