@@ -7,7 +7,7 @@ Meetings are minuted on a shared document and maintain an on-record back-channel
 - [W3 guide to working with IRC](https://www.w3.org/wiki/IRC)
 - [Tips on how to work with IRC from TPAC](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
 
-Issues can be opened in this repository to add to meeting agendas. Please use the appropriate label when you open an issue to mark it as `agenda+`. 
+Issues can be opened in this repository to add to meeting agendas. Please use the appropriate label or issue template when you open an issue to mark it as `agenda+`. 
 
 ## Structure
 
