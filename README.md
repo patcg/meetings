@@ -2,7 +2,7 @@
 
 Meeting materials for the Private Advertising Technology Community Group
 
-Meetings are held on IRC in [#patcg](https://irc.w3.org/?channels=patcg)
+Meetings are minuted on a shared document and maintain an on-record back-channel held on IRC in [#patcg](https://irc.w3.org/?channels=patcg)
 
 - [W3 guide to working with IRC](https://www.w3.org/wiki/IRC)
 - [Tips on how to work with IRC from TPAC](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
