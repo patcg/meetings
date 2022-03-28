@@ -25,3 +25,7 @@ The Private Advertising Technology CG's will be meeting on April 5th and 7th for
 | 09:00         | 07 Thu | Boston        |
 | 14:00 (02 PM) | 07 Thu | London        |
 | 15:00 (03 PM) | 07 Thu | Brussels      |
+
+## Joining Information
+
+[WebEx Link](https://mit.webex.com/mit/j.php?MTID=m6ba2258ea91917d9b56eb3e3865cda09)
