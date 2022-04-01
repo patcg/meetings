@@ -29,3 +29,38 @@ The Private Advertising Technology CG's will be meeting on April 5th and 7th for
 ## Joining Information
 
 [WebEx Link](https://mit.webex.com/mit/j.php?MTID=m6ba2258ea91917d9b56eb3e3865cda09)
+
+
+## Agenda
+
+### Day 1 Agenda
+
+- <= 10m: Intro, Google Doc, Call for Scribes
+- <= 35m: 25m Presentation on: [Consider the Reach and Frequency Use Case for Ads Measurement](https://github.com/patcg/meetings/issues/12) by [@rmirisola](https://github.com/rmirisola) / 10m Q&A
+- == 5m: Break
+- <= 1h 15m: [Should PATCG be opinionated on which technologies are used to enable privacy?](https://github.com/patcg/meetings/issues/39)
+  - 5m Introduction of Topic and Proposed Private Computation Goals by [@eriktaubeneck](https://github.com/eriktaubeneck) 
+  - 5m Questions / Discussion on Proposed Goals 
+  - 7m Introduction to TEEs by Andras Slemmer 
+  - 7m Attacks on TEEs by Yuval Yarom
+  - 11m Questions and Discussion on TEEs
+  - 10m Introduction to MPC
+  - 11m Question / Discussion on MPCs 
+  - 19m Discussion on Next Steps for Consensus 
+- == 5m: Break, free talk, etc...
+- ~ 40m: [Reviewing](https://github.com/patcg/meetings/issues/7) Working Group [charter](https://github.com/patcg/patwg-charter/blob/main/charter.html), [PRs](https://github.com/patcg/patwg-charter/pulls) and [Issues](https://github.com/patcg/patwg-charter/issues). 
+- <= 10m: Overflow for working group discussion OR Schedule next meeting
+
+### Day 2 Agenda
+
+- <= 20m: Opening Review / Q&A
+- == 30m: 20m presenting [Collective Governance of Infrastructure proposal](https://github.com/patcg/meetings/issues/40) by [@darobin](https://github.com/darobin) / 10m Q&A
+- == 5m break
+- == 15m: Q&A on [Operational Experience with MPC](https://github.com/patcg/meetings/issues/44) by [@tgeoghegan](https://github.com/tgeoghegan)
+- <= 30m: [Progress report on Private Measurement](https://github.com/patcg/meetings/issues/42)
+- == 30m: [Update on Privacy Principles](https://github.com/patcg/meetings/issues/43) by [@darobin](https://github.com/darobin)
+- == 5m break
+- <= 40m: Review [Charter Changes and Calls for Consensus](https://github.com/patcg/patcg.github.io/pulls) with [@aramzs](https://github.com/AramZS) & [@seanturner](https://github.com/seanturner)
+- == 5m: Schedule next meeting OR Charter discussion overflow. 
+
+## Minutes
