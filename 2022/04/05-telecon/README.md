@@ -64,3 +64,5 @@ The Private Advertising Technology CG's will be meeting on April 5th and 7th for
 - == 5m: Schedule next meeting OR Charter discussion overflow. 
 
 ## Minutes
+
+https://docs.google.com/document/d/1zsFNB-1tNUbSP6V2xpCDhiaPUN3B_lT_qn0OnzLvtYM/edit?usp=sharing
