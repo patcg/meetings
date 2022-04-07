@@ -28,7 +28,11 @@ The Private Advertising Technology CG's will be meeting on April 5th and 7th for
 
 ## Joining Information
 
-[WebEx Link](https://mit.webex.com/mit/j.php?MTID=m6ba2258ea91917d9b56eb3e3865cda09)
+~~[WebEx Link](https://mit.webex.com/mit/j.php?MTID=m6ba2258ea91917d9b56eb3e3865cda09)~~
+
+WE HAVE MOVED TO ZOOM FOR DAY 2
+
+[Zoom](https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09)
 
 [Minutes Doc](https://docs.google.com/document/d/1zsFNB-1tNUbSP6V2xpCDhiaPUN3B_lT_qn0OnzLvtYM/edit#heading=h.emacos7anbx5)
 
