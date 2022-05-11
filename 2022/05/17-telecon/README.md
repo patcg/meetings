@@ -25,3 +25,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 | 18:00 (06 PM) | 19 Thu | Boston        |
 | 23:00 (11 PM) | 19 Thu | London        |
 | 24:00 (12 PM) | 19 Thu | Brussels      |
+
+## Joining Information
+
+[Zoom](https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09)
