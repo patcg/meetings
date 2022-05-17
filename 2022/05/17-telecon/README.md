@@ -53,4 +53,4 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Minutes
 
-[Link](https://docs.google.com/document/d/197tQGt2K9mI5zESsTtjoQdg5kt0yZziFKobHRn_zysA/edit)
+[Meeting Link](https://docs.google.com/document/d/197tQGt2K9mI5zESsTtjoQdg5kt0yZziFKobHRn_zysA/edit)
