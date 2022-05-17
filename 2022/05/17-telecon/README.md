@@ -50,3 +50,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - == 5m: Break
 - <= 40m: Overflow for [Measurement Use Cases deep dive](https://github.com/patcg/meetings/issues/51) and open discussion on measurement topics. 
 - == 5m: [TPAC F2F coordination](https://github.com/patcg/meetings/issues/53) 
+
+## Minutes
+
+[Link](https://docs.google.com/document/d/197tQGt2K9mI5zESsTtjoQdg5kt0yZziFKobHRn_zysA/edit)
