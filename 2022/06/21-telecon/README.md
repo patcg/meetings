@@ -19,7 +19,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
-| 15:00 (03 PM) | 21 THu | Tokyo         |
+| 15:00 (03 PM) | 21 Thu | Tokyo         |
 | 16:00 (04 PM) | 21 Thu | Sydney        |
 | 23:00 (11 PM) | 20 Wed | Seattle       |
 | 02:00         | 21 Thu | Boston        |
