@@ -44,7 +44,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 2 Agenda 
 
 - == 10m: Intro, Recap Q&A, Call for Scribes
-- Remaining Time: [Cross-Device Attribution](https://github.com/patcg/meetings/issues/58) led by [@martinthomson](https://github.com/martinthomson)
+- Remaining Time: [Cross-Device Attribution](https://github.com/patcg/meetings/issues/58) led by [@martinthomson](https://github.com/martinthomson) ([Slides](./cross-device.pdf))
 - == 10m: Closing and Next Meeting Planning
 
 ## Minutes
