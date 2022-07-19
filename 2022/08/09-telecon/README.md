@@ -31,3 +31,14 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 [Zoom](https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09)
 
 ## Agenda
+
+### Day 1 Agenda
+
+- <= 10m: Intro, Google Doc, Call for Scribes
+- <= 30m: TPAC Planning led by [@aramzs](https://github.com/aramzs) & [@seanturner](https://github.com/seanturner)
+- Threat Model
+### Day 2 Agenda 
+
+- 
+
+## Minutes
