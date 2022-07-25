@@ -36,9 +36,17 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 - <= 10m: Intro, Google Doc, Call for Scribes
 - <= 30m: TPAC Planning led by [@aramzs](https://github.com/aramzs) & [@seanturner](https://github.com/seanturner)
-- Threat Model
+- <= 1h: [Threat Model Update](https://github.com/patcg/meetings/issues/69) led by @eriktaubeneck
+- ~= 1h 30m: [(CPA?) Composable privacy-preserving architecture to support more flexible x-platform use cases](https://github.com/patcg/meetings/issues/65) led by [@rmirisola](https://github.com/rmirisola)
+- 
 ### Day 2 Agenda 
 
-- 
+- == 10m: Intro, Recap Q&A, Call for Scribes
+- ~= 2h 30m: [Further MVP Discussion](https://github.com/patcg/meetings/issues/56) led by ???
+  - Intro / Overview
+  - == 1h: Absolutely Required
+  - == 45m: Nice to have
+  - == 30m: Advanced Capabilities
+  - == 15m: Wrap up 
 
 ## Minutes
