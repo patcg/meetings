@@ -43,7 +43,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 2 Agenda 
 
 - == 5m: Intro, Recap Q&A, Call for Scribes
-- >= 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
+- => 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
 - <= 1h 25m: [Further MVP Discussion](https://github.com/patcg/meetings/issues/56) and Setting up MVP Survey led by [@aramzs](https://github.com/aramzs) (and hopefully others)
   - Intro / Overview
   - <= 30m: Absolutely Required
