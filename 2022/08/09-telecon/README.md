@@ -39,15 +39,16 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - <= 10m: TPAC Update led by [@aramzs](https://github.com/aramzs) & [@seanturner](https://github.com/seanturner)
 - <= 1h: [Threat Model Update](https://github.com/patcg/meetings/issues/69) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
 - ~= 1h 30m: [(CPA?) Composable privacy-preserving architecture to support more flexible x-platform use cases](https://github.com/patcg/meetings/issues/65) led by [@rmirisola](https://github.com/rmirisola)
+
 ### Day 2 Agenda 
 
 - == 5m: Intro, Recap Q&A, Call for Scribes
-- == 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
-- ~= 1h 25m: [Further MVP Discussion](https://github.com/patcg/meetings/issues/56) and Setting up MVP Survey led by ???
+- >= 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
+- <= 1h 25m: [Further MVP Discussion](https://github.com/patcg/meetings/issues/56) and Setting up MVP Survey led by [@aramzs](https://github.com/aramzs) (and hopefully others)
   - Intro / Overview
-  - == 30m: Absolutely Required
-  - == 25m: Nice to have / Advanced Capabilities
-  - == 30m: Survey Design
+  - <= 30m: Absolutely Required
+  - <= 25m: Nice to have / Advanced Capabilities
+  - <= 30m: Survey Design
 - == 5m: Closing
 
 ## Minutes
