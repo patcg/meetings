@@ -52,3 +52,5 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - == 5m: Closing
 
 ## Minutes
+
+[Minutes document in Google Docs](https://docs.google.com/document/d/1jzUzPFH9BgkGUGTedSF8pk_GuJD_EZeggxn-UMVLZ90/edit#)
