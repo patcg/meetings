@@ -2,9 +2,9 @@
 
 The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
 
-## Schedule 
+## Schedule
 
-### Day 1 Start 
+### Day 1 Start
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
@@ -15,7 +15,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 | 23:00 (11 PM) | 09 Tue | London        |
 | 24:00 (12 PM) | 09 Tue | Brussels      |
 
-### Day 2 Start 
+### Day 2 Start
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
@@ -37,13 +37,13 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - <= 10m: Intro, Google Doc, Call for Scribes
 - == 10m: Brief notes on CG Charter led by [@aramzs](https://github.com/aramzs) & [@seanturner](https://github.com/seanturner)
 - <= 10m: TPAC Update led by [@aramzs](https://github.com/aramzs) & [@seanturner](https://github.com/seanturner)
-- <= 1h: [Threat Model Update](https://github.com/patcg/meetings/issues/69) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
+- <= 1h: [Threat Model Update](https://github.com/patcg/meetings/issues/69) led by [@eriktaubeneck](https://github.com/eriktaubeneck) [Slides from session](Aggregate-Measurement-Threat-Model-Draft-PATCG-Issue-69.pdf)
 - ~= 1h 30m: [(CPA?) Composable privacy-preserving architecture to support more flexible x-platform use cases](https://github.com/patcg/meetings/issues/65) led by [@rmirisola](https://github.com/rmirisola)
 
-### Day 2 Agenda 
+### Day 2 Agenda
 
 - == 5m: Intro, Recap Q&A, Call for Scribes
-- => 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck)
+- => 1h 25m: [IPA Status Update](https://github.com/patcg/meetings/issues/70) led by [@eriktaubeneck](https://github.com/eriktaubeneck) [Slides from session](IPA-August-2022-Update-PATCG-Issue-70.pdf)
 - <= 1h 25m: [Further MVP Discussion](https://github.com/patcg/meetings/issues/56) and Setting up MVP Survey led by [@aramzs](https://github.com/aramzs) (and hopefully others)
   - Intro / Overview
   - <= 30m: Absolutely Required
