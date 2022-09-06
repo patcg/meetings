@@ -17,7 +17,7 @@ The Private Advertising Technology Community Group will be meeting at TPAC in Va
 
 ## Joining Information
 
-Zoom TK
+Zoom: https://us02web.zoom.us/j/2442125179?pwd=bUEzK3c4Ykl5Zk1ZNHYxeTdvcFU2Zz09
 
 ## Agenda
 
