@@ -30,4 +30,4 @@ Zoom: https://us02web.zoom.us/j/2442125179?pwd=bUEzK3c4Ykl5Zk1ZNHYxeTdvcFU2Zz09
 
 ## Minutes
 
-Minutes Document TK
+Minutes Document: https://docs.google.com/document/d/1dur1soZtHAsAB_xIoD7SrJtRuvUWjz3ElUxVXUsV6c8/edit?usp=sharing
