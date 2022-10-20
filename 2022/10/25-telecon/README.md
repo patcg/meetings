@@ -1,6 +1,6 @@
 # October 2022 Virtual Meeting
 
-The Private Advertising Technology Community Group will be meeting for two days on the 25th and 27th for 3 hours at the same time both days.
+The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
 
 ## Schedule
 
@@ -57,5 +57,3 @@ Minutes Document: TK
 ### Read All about It!
 
 [Slides to Read All About It!](https://github.com/patcg/meetings/blob/main/2022/10/25-telecon/W3C%20Read%20All%20About%20It!.pdf)
-
-
