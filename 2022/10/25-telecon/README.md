@@ -32,14 +32,28 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Agenda
 
-### Day 1 Agenda
+### Day 1
 
-TBD
+- == 10m Intro, Google Doc, Read All About It, Call for Scribes
+- => 55m Private Measurement Document Work: Important design dimensions
+- == 5m break
+- => 55m Private Measurement Document Work: Key use-cases that differ on the dimensions
+- == 5m break 
+- => 50m Private Measurement Document Work: Layering ideas to support different vendors making different decisions in a (somewhat) interoperable way.
 
-### Day 2 Agenda
+### Day 2 
 
-TBD
+- == 5m Call for Scribes
+- == 55m Buy Side Perspectives Part 1
+- == 5m break
+- => 60m Buy Side Perspectives Part 2
+- == 5m break 
+- =< 50m Anticipated Private Measurement Document Work overflow 
 
 ## Minutes
 
-Minutes document in Google Docs: TBD
+Minutes Document: TK
+
+### Read All about It!
+
+[Slides to Read All About It!](https://github.com/patcg/meetings/blob/main/2022/10/25-telecon/W3C%20Read%20All%20About%20It!.pdf)
