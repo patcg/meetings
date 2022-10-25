@@ -52,7 +52,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Minutes
 
-Minutes Document: TK
+[Minutes Document](https://docs.google.com/document/d/1qG3AWxEMZjhCwrGKBQK10r_2GgwJQWDwjKGlXeHE4kw/edit?usp=sharing)
 
 ### Read All about It!
 
