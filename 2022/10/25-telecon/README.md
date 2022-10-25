@@ -38,17 +38,17 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - => 55m Private Measurement Document Work: Important design dimensions
 - == 5m break
 - => 55m Private Measurement Document Work: Key use-cases that differ on the dimensions
-- == 5m break 
-- => 50m Private Measurement Document Work: Layering ideas to support different vendors making different decisions in a (somewhat) interoperable way.
+- == 5m break
+- => 50m Private Measurement Document Work: [Layering ideas to support different vendors making different decisions in a (somewhat) interoperable way.](https://github.com/patcg/meetings/blob/main/2022/10/25-telecon/Layering%20Ideas%20for%20PATCG.pdf)
 
-### Day 2 
+### Day 2
 
 - == 5m Call for Scribes
 - == 55m Buy Side Perspectives Part 1
 - == 5m break
 - => 60m Buy Side Perspectives Part 2
-- == 5m break 
-- =< 50m Anticipated Private Measurement Document Work overflow 
+- == 5m break
+- =< 50m Anticipated Private Measurement Document Work overflow
 
 ## Minutes
 
