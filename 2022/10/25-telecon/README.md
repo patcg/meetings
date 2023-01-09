@@ -46,7 +46,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - == 5m Call for Scribes
 - == 55m Buy Side Perspectives Part 1
 - == 5m break
-- => 60m Buy Side Perspectives Part 2
+- => 60m Buy Side Perspectives Part 2 [Measurement in advertising slides](https://github.com/patcg/meetings/blob/main/2022/10/25-telecon/Measurement%20in%20advertising.pdf)
 - == 5m break
 - =< 50m Anticipated Private Measurement Document Work overflow
 
