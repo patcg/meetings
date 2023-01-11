@@ -41,7 +41,7 @@ Address: 30 Hudson Yards, Floor 69, New York, NY 10001
 
 POC: TBD
 
-**NOTE** that Meta has provided an exception to the NDA that is generally required to host meetings. Thanks for that!
+***NOTE*** that Meta has provided an exception to the NDA that is generally required to host meetings. Thanks for that!
 
 ### Virtual
 
