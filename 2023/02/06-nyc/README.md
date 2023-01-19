@@ -1,4 +1,4 @@
-# Feburary 2023 F2F Meeting
+# Feburary 2023 F2F Meeting (Feb 6 - 7)
 
 The Private Advertising Technology Community Group will be meeting at Meta's
 Hudson Yards office in NYC in a hybrid format; we will support both in-person
