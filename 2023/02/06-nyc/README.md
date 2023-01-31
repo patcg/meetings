@@ -45,7 +45,7 @@ POC: TBD
 
 ### Virtual
 
-TBD
+Zoom link to be posted prior to the meeting.
 
 ## Agenda
 
