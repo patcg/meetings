@@ -81,10 +81,6 @@ Zoom link to be posted prior to the meeting.
 - <= 2h: [Advance private measurement work](https://github.com/patcg/meetings/issues/99)
 - == 5m: Closing
 
-## Travel and Accommodation Information
-
-Please consult your favorite search engine, corporate booking system, or travel agent to arrange travel and accommodations.
-
 ## Travel and Accomodation Information
 
 Please consult your favorite search engine, corporate booking system, or travel agent to arrange travel and accomodations.
