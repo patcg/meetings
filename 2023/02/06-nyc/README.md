@@ -49,7 +49,7 @@ Zoom link to be posted prior to the meeting.
 
 ## Agenda
 
-TBD
+[Pending](https://github.com/patcg/meetings/pull/100)
 
 ## Travel and Accomodation Information
 
