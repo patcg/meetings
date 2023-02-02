@@ -54,7 +54,8 @@ Zoom link to be posted prior to the meeting.
 - <= 20m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
 - == 20m: [Review baseline requirements for Private Measurement from participants](https://github.com/patcg/meetings/issues/91)
 - == 30m: [Remove "draft" label from Threat Model document](https://github.com/patcg/meetings/issues/93) 
-- == 1h: [Review the PRs on PATWG charter ready for consensus calls](https://github.com/patcg/patwg-charter/pulls?q=is%3Apr+is%3Aopen+label%3Acall-for-consensus)
+- == 45m: [Review the PRs on PATWG charter ready for consensus calls](https://github.com/patcg/patwg-charter/pulls?q=is%3Apr+is%3Aopen+label%3Acall-for-consensus)
+- == 15m: Process Discussion [on Privacy Principles](https://github.com/patcg/meetings/issues/101)
 - == 45m: Lunch Break 
 - <= 1h: [Review PRs on PATWG charter that may not be ready for consensus calls](https://github.com/patcg/patwg-charter/pulls?q=is%3Apr+is%3Aopen+label%3Acomment-response+-label%3Acall-for-consensus). 
 - ~15m: Updates on PATCG organization, schedule, next meetings
