@@ -1,4 +1,4 @@
-# Feburary 2023 F2F Meeting (Feb 6 - 7)
+# February 2023 F2F Meeting (Feb 6 - 7)
 
 The Private Advertising Technology Community Group will be meeting at Meta's
 Hudson Yards office in NYC in a hybrid format; we will support both in-person
@@ -49,7 +49,38 @@ Zoom link to be posted prior to the meeting.
 
 ## Agenda
 
-[Pending](https://github.com/patcg/meetings/pull/100)
+### Day 1 Agenda
+
+- <= 20m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
+- == 20m: [Review baseline requirements for Private Measurement from participants](https://github.com/patcg/meetings/issues/91)
+- == 30m: [Remove "draft" label from Threat Model document](https://github.com/patcg/meetings/issues/93) 
+- == 45m: [Review the PRs on PATWG charter ready for consensus calls](https://github.com/patcg/patwg-charter/pulls?q=is%3Apr+is%3Aopen+label%3Acall-for-consensus)
+- == 15m: Process Discussion [on Privacy Principles](https://github.com/patcg/meetings/issues/101)
+- == 45m: Lunch Break 
+- <= 1h: [Review PRs on PATWG charter that may not be ready for consensus calls](https://github.com/patcg/patwg-charter/pulls?q=is%3Apr+is%3Aopen+label%3Acomment-response+-label%3Acall-for-consensus). 
+- ~15m: Updates on PATCG organization, schedule, next meetings
+- Industry updates around privacy features and trials
+  - <= 45m: [Updates and lessons from the Attribution Reporting API Origin Trial](https://github.com/patcg/meetings/issues/95) 
+  - == 15m break
+  - <= 30m: [Use cases and principles for Attribution/Measurement proposals](https://github.com/patcg/meetings/issues/96)
+  - => 30m: [Update on the status of Topics API + Q&A](https://github.com/patcg/meetings/issues/92) 
+- == 5m: Day 1 wrap up.
+
+(Note, those interested in more extensive conversation on proposals related to, but not currently in-scope for PATCG, we have the room available for a further hour for optional conversation)
+
+### Day 2 Agenda
+
+- <= 20m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
+- == 20m: Review and discuss [survey](https://github.com/patcg/meetings/issues/91) results. 
+- => 30m: [Update on IPA implementation effort](https://github.com/patcg/meetings/issues/94)
+- => 30m: [Scaling Up Reporting with Option for Off-Device Attribution](https://github.com/patcg/meetings/issues/97)
+- <= 20m: Additional updates, questions, trial results related to 'Industry updates around privacy features and trials'
+- == 45m: Lunch break
+- => 30m: Open Feedback on private measurement, current tests, and the existing [document](https://github.com/patcg/docs-and-reports/tree/main/design-dimensions). We would especially like ad industry participants who do not usually speak up at PATCG events to take this time to ask questions and give feedback. Come to Aram after this if you'd like to further add your survey response to the set previously discussed.
+- <= 30m: [Advance private measurement work](https://github.com/patcg/meetings/issues/99)
+- == 10m break
+- <= 2h: [Advance private measurement work](https://github.com/patcg/meetings/issues/99)
+- == 5m: Closing
 
 ## Travel and Accomodation Information
 
