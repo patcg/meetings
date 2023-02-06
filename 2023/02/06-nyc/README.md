@@ -32,20 +32,28 @@ and remote attendees. Each day the meeting will last for 6 hours (with breaks).
 
 ### In-Person
 
-Attendance List: We need your name, affiliation, and email address. Please
-provide them via this [attendance form](https://forms.gle/gANo5Duj4oDcrSRG7)
-or via [email](mailto:sean@sn3rd.com?subject=[patcg]%20F2F%20Meeting%20Registration%20For%20Feb%202023%20NYC).
-Also please do this in advance of the meeting.
+Attendance List: Sign up is now closed. If you missed the sign up period, please reach out via [email](mailto:sean@sn3rd.com?subject=[patcg]%20F2F%20Meeting%20Registration%20For%20Feb%202023%20NYC) and we will do our best to add you. Virtual attendance is also an option.
 
 Address: 30 Hudson Yards, Floor 69, New York, NY 10001
 
-POC: TBD
+POC: Casey Beal. Erik Taubeneck and Ben Savage will also be onsite to help assist entrance.
+
+Logistics: 
+- Please remember to **bring a photo ID** for Meta security to validate your name against the attendees list.
+- Meta unfortunately cannot provide lunch at the office due to the NDA exception, and attendees will need to pack in or leave the office for lunch. There are many places in the [attached shopping mall](https://www.hudsonyardsnewyork.com/food-drink), as well as some nearby options outside.
 
 ***NOTE*** that Meta has provided an exception to the NDA that is generally required to host meetings. Thanks for that!
 
 ### Virtual
 
-Zoom link to be posted prior to the meeting.
+Zoom link for both days: https://fb.zoom.us/j/98817800501?pwd=WGJtcmkvLzRUeHI3YVNHS0tJdlVrdz09
+- Meeting ID: 988 1780 0501
+- Passcode: 991492
+- One tap mobile
+- +13052241968,,98817800501#,,,,*991492# US
+- +13092053325,,98817800501#,,,,*991492# US
+
+Note: **Messaging will be disabled** in Zoom. Please use the #private-advertising-technology-cg channel in the [W3C Community Slack](https://w3ccommunity.slack.com/).
 
 ## Agenda
 
