@@ -90,6 +90,10 @@ Note: **Messaging will be disabled** in Zoom. Please use the #private-advertisin
 - <= 2h: [Advance private measurement work](https://github.com/patcg/meetings/issues/99)
 - == 5m: Closing
 
+## Minutes
+
+https://docs.google.com/document/d/1Ea434mr-9rZACGDsbkyt3Ah9-nvAwWlb1tbiTHWhWOs/edit
+
 ## Travel and Accomodation Information
 
 Please consult your favorite search engine, corporate booking system, or travel agent to arrange travel and accomodations.
