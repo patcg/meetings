@@ -1,4 +1,4 @@
-# March 2023 Virtual Meeting
+# March 21 & 23 2023 Virtual Meeting
 
 The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
 
