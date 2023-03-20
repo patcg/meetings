@@ -1,4 +1,4 @@
-# March 2023 Virtual Meeting
+# March 21 & 23 2023 Virtual Meeting
 
 The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
 
@@ -36,11 +36,12 @@ Zoom: TBD
 
 ### Day 1
 
-TBD
+- [Review WG Charter PRs](https://github.com/patcg/meetings/issues/108)
+- [Review Ad Hoc groups](https://github.com/patcg/meetings/issues/107)
 
 ### Day 2
 
-TBD
+- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 
 ## Read All about It!
 
