@@ -42,6 +42,10 @@ TBD
 
 TBD
 
+## Read All about It!
+
+[Slides to Read All About It!](https://github.com/patcg/meetings/blob/main/2023/03/21-telecon/W3C%20Read%20All%20About%20It!.pdf)
+
 ## Minutes
 
 https://docs.google.com/document/d/1fZTAG6j-LKk991aaQx_cPoqK9h5m4W8pwq46oQD4WEo/edit#
