@@ -36,11 +36,12 @@ Zoom: TBD
 
 ### Day 1
 
-TBD
+- [Review WG Charter PRs](https://github.com/patcg/meetings/issues/108)
+- [Review Ad Hoc groups](https://github.com/patcg/meetings/issues/107)
 
 ### Day 2
 
-TBD
+- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 
 ## Minutes
 
