@@ -44,4 +44,4 @@ TBD
 
 ## Minutes
 
-TBD
+https://docs.google.com/document/d/1fZTAG6j-LKk991aaQx_cPoqK9h5m4W8pwq46oQD4WEo/edit#
