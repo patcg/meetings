@@ -94,6 +94,11 @@ Note: **Messaging will be disabled** in Zoom. Please use the #private-advertisin
 
 https://docs.google.com/document/d/1Ea434mr-9rZACGDsbkyt3Ah9-nvAwWlb1tbiTHWhWOs/edit
 
+## Read All about It!
+
+[Slides to Read All About It!](https://github.com/patcg/meetings/blob/main/2023/02/06-nyc/W3C%20Read%20All%20About%20It!.pdf)
+
+
 ## Travel and Accomodation Information
 
 Please consult your favorite search engine, corporate booking system, or travel agent to arrange travel and accomodations.
