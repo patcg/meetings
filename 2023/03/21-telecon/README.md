@@ -46,6 +46,7 @@ Our group is called “private-advertising-technology-cg”
 
 ### Day 2
 
+- [Review Privacy Principles progress](https://github.com/patcg/meetings/issues/110)
 - [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 
 ## Read All about It!
