@@ -2,7 +2,9 @@
 
 The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
 
-## Schedule### Day 1 Start
+## Schedule
+
+### Day 1 Start
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
