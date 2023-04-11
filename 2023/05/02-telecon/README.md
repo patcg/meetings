@@ -36,11 +36,13 @@ Zoom: TBD
 
 ### Day 1
 
-TBD
+- [Review WG Charter PRs](https://github.com/patcg/meetings/issues/108)
+- [Private measurement of single events](https://github.com/patcg/meetings/issues/112)
+- [Review Privacy Principles progress](https://github.com/patcg/meetings/issues/110)
 
 ### Day 2
 
-TBD
+- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 
 ## Read All about It!
 
