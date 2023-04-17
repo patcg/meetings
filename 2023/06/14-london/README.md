@@ -81,7 +81,7 @@ Link: TBD
 
 ## Read All about It!
 
-TBD
+[Slides for W3C Read All About It!](https://github.com/patcg/meetings/blob/main/2023/06/14-london/W3C%20Read%20All%20About%20It!.pdf)
 
 ## Travel and Accommodation Information
 
