@@ -36,11 +36,18 @@ Zoom: TBD
 
 ### Day 1
 
-TBD
+- <= 10m: Hellos, Intros, Google Doc, Call for Scribes
+- <= 15m: [Review WG Charter PRs](https://github.com/patcg/meetings/issues/108)
+- <= 60m: [Private measurement of single events](https://github.com/patcg/meetings/issues/112)
+- == 5m break
+- >= 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
+- == 5m break
+- <= 25m: [Review Privacy Principles progress](https://github.com/patcg/meetings/issues/110)
+- >= 15m: [TPAC Review](https://github.com/patcg/meetings/issues/116)
 
 ### Day 2
 
-TBD
+- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 
 ## Read All about It!
 
