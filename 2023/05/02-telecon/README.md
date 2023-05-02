@@ -49,6 +49,7 @@ Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09
 - <= 10m: Hellos, Intros, Google Doc, Call for Scribes
 - <= 15m: [Review WG Charter PR#59](https://github.com/patcg/patwg-charter/pull/59)
 - => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
+- <= 30m: [Private measurement of single events](https://github.com/patcg/meetings/issues/112) (conitnued)
 - [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 - <= 10m: Future Meeting Planning
 
