@@ -43,6 +43,7 @@ Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09
 - => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
 -- Moved to Day 2
 - => 15m: [TPAC Review](https://github.com/patcg/meetings/issues/116)
+-- Moved to Day 2
 
 ### Day 2
 
@@ -51,7 +52,8 @@ Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09
 - => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
 - <= 30m: [Private measurement of single events](https://github.com/patcg/meetings/issues/112) (conitnued)
 - [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
-- <= 10m: Future Meeting Planning
+- <= 15m: Future Meeting Planning
+o [TPAC Review](https://github.com/patcg/meetings/issues/116)
 
 ## Read All about It!
 
