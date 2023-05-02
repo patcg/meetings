@@ -30,7 +30,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Joining Information
 
-Zoom: TBD
+Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09 
 
 ## Agenda
 
@@ -55,4 +55,4 @@ Zoom: TBD
 
 ## Minutes
 
-TBD
+gDoc: https://docs.google.com/document/d/1XjRCMrdZrsf876oBjPhst9mkuBMU99yiCbegzht150g/edit?usp=sharing
