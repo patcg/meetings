@@ -42,7 +42,6 @@ Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09
 - == 5m break
 - => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
 - == 5m break
-- <= 25m: [Review Privacy Principles progress](https://github.com/patcg/meetings/issues/110)
 - => 15m: [TPAC Review](https://github.com/patcg/meetings/issues/116)
 
 ### Day 2
