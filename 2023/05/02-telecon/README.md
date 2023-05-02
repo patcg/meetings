@@ -41,12 +41,16 @@ Zoom: https://mit.zoom.us/j/95356244879?pwd=NDBwZmxleTMwcHFpZG1MZW1tUXhVUT09
 - <= 60m: [Private measurement of single events](https://github.com/patcg/meetings/issues/112)
 - == 5m break
 - => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
-- == 5m break
+-- Moved to Day 2
 - => 15m: [TPAC Review](https://github.com/patcg/meetings/issues/116)
 
 ### Day 2
 
+- <= 10m: Hellos, Intros, Google Doc, Call for Scribes
+- <= 15m: [Review WG Charter PR#59](https://github.com/patcg/patwg-charter/pull/59)
+- => 45m: [Private Conversion Optimisation](https://github.com/patcg/meetings/issues/117)
 - [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- <= 10m: Future Meeting Planning
 
 ## Read All about It!
 
