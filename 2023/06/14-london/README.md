@@ -88,6 +88,7 @@ Link: TBD
 
 - <= 30m: Hellos, Google Doc, Call for Scribes
 - >= 45m: [#125 Malicious Partitioning Without Sorting](https://github.com/patcg/meetings/issues/125)
+- => 25m: [#128 Short presentation on label DP results](https://github.com/patcg/meetings/issues/128)
 - == 1h: Lunch
 - [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 - <= 15m: Future Meeting Planning / Wrap up.
