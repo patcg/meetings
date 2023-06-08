@@ -63,7 +63,7 @@ Thanks for that! Obviously, Cloudflare, like everywhere else, has some building 
  - You will be escorted between the lobby and auditorium, and attendees will not go into the main office. 
  - You will wear your Envoy sticker such that it is visible at all times.
 
-### Virtual
+### Virtual Resources
 
 Attendance List: Place your name in meeting minutes day of.
 
@@ -71,18 +71,36 @@ Link: TBD
 
 ## Agenda
 
-Day 1 - TBD
+### Day 1
 
-Day 2 - TBD
+- <= 30m: Hellos, Intros, Google Doc, Call for Scribes
+- == 1h: [#121 Presenting EXPAT - Extension-based Private Advertising Technology](https://github.com/patcg/meetings/issues/121)
+- <= 1h: [#122 On-premise trusted servers](https://github.com/patcg/meetings/issues/122)
+- == 1h: Lunch
+- => 20m: PATWG Updates
+- <= 25m: TPAC Review 
+- == 30m: [#123 TEE vs MPC for trusted servers](https://github.com/patcg/meetings/issues/123)
+- 15m Break
+- => 1h: [#124 Threat Model for First Party Data](https://github.com/patcg/meetings/edit/main/2023/06/14-london/README.md)
+- => 30m: Open Discussion / Next day planning
 
-## Minutes
+### Day 2
 
-Link: TBD
+- <= 30m: Hellos, Google Doc, Call for Scribes
+- >= 45m: [#125 Malicious Partitioning Without Sorting](https://github.com/patcg/meetings/issues/125)
+- => 25m: [#128 Short presentation on label DP results](https://github.com/patcg/meetings/issues/128)
+- == 1h: Lunch
+- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- <= 15m: Future Meeting Planning / Wrap up.
 
 ## Read All about It!
 
-[Slides for W3C Read All About It!](https://github.com/patcg/meetings/blob/main/2023/06/14-london/W3C%20Read%20All%20About%20It!.pdf)
+[Slides to Read All About It!](https://github.com/patcg/meetings/blob/main/2023/05/02-telecon/W3C%20Read%20All%20About%20It!.pdf)
 
 ## Travel and Accommodation Information
 
 Please consult your favorite search engine, corporate booking system, or travel agent to arrange travel and accommodations.
+
+## Minutes
+
+Link: TBD
