@@ -86,11 +86,15 @@ Link: TBD
 
 ### Day 2
 
-- <= 30m: Hellos, Google Doc, Call for Scribes
+- <= 15m: Hellos, Google Doc, Call for Scribes
 - >= 45m: [#125 Malicious Partitioning Without Sorting](https://github.com/patcg/meetings/issues/125)
 - => 25m: [#128 Short presentation on label DP results](https://github.com/patcg/meetings/issues/128)
+- => 1h: [#115 Cross device attribution options](https://github.com/patcg/meetings/issues/115)
 - == 1h: Lunch
-- [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- == 30m: [Methods for measuring privacy risk](https://github.com/patcg/meetings/issues/129)
+- == 1h 30m: [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- 15m break
+- 1h 50m: [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
 - <= 15m: Future Meeting Planning / Wrap up.
 
 ## Read All about It!
