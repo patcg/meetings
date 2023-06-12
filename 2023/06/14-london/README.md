@@ -81,7 +81,7 @@ Link: TBD
 - <= 25m: TPAC Review 
 - == 30m: [#123 TEE vs MPC for trusted servers](https://github.com/patcg/meetings/issues/123)
 - 15m Break
-- => 1h: [#124 Threat Model for First Party Data](https://github.com/patcg/meetings/edit/main/2023/06/14-london/README.md)
+- => 1h: [#124 Threat Model for First Party Data](https://github.com/patcg/meetings/issues/124)
 - => 30m: Open Discussion / Next day planning
 
 ### Day 2
