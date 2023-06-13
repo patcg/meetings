@@ -44,6 +44,7 @@ Attendance:
 Address:
  * [Cloudflare's London office](https://www.google.com/maps/place/Cloudflare/@51.501963,-0.118852,14z/data=!4m5!3m4!1s0x0:0xf872835bbffc7170!8m2!3d51.5019633!4d-0.1188522?hl=en-US&shorturl=1)
  * Riverside Building, 6th Floor, The County Hall, Belvedere Rd, London SE1 7PB, United Kingdom
+ * [Additional Detailed Instructions](https://github.com/patcg/meetings/blob/main/2023/06/14-london/Map%20directions%20to%20Cloudflare%20office.pdf)
 
 POCs on site:
  * Andrew Galloni and Chris Wood
@@ -67,7 +68,7 @@ Thanks for that! Obviously, Cloudflare, like everywhere else, has some building 
 
 Attendance List: Place your name in meeting minutes day of.
 
-Link: TBD
+Link: https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09
 
 ## Agenda
 
@@ -108,4 +109,4 @@ Please consult your favorite search engine, corporate booking system, or travel 
 
 ## Minutes
 
-Link: TBD
+Link: https://docs.google.com/document/d/1raFJmEEobFzXj7VPC0GRXKtL_pxfR-5Mi6YJwtHalYg/edit?usp=sharing
