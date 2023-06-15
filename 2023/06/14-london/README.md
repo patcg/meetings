@@ -75,28 +75,28 @@ Link: https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09
 ### Day 1
 
 - <= 30m: Hellos, Intros, Google Doc, Call for Scribes
-- == 1h: [#121 Presenting EXPAT - Extension-based Private Advertising Technology](https://github.com/patcg/meetings/issues/121)
-- <= 1h: [#122 On-premise trusted servers](https://github.com/patcg/meetings/issues/122)
+- == 1h: #121 Presenting EXPAT - Extension-based Private Advertising Technology
+- <= 1h: #122 On-premise trusted servers
 - == 1h: Lunch
 - => 20m: PATWG Updates
-- <= 25m: TPAC Review 
-- == 30m: [#123 TEE vs MPC for trusted servers](https://github.com/patcg/meetings/issues/123)
-- => 1h: [#124 Threat Model for First Party Data](https://github.com/patcg/meetings/issues/124)
+- <= 25m: TPAC Review
+- == 30m: #123 TEE vs MPC for trusted servers
+- == 30m: #129 Methods for measuring privacy risk
 - 15m Break
-- == 30m: [#129 Methods for measuring privacy risk](https://github.com/patcg/meetings/issues/129)
+- => 1h: #124 Threat Model for First Party Data
 - => 30m: Open Discussion / Next day planning
 
 ### Day 2
 
 - <= 15m: Hellos, Google Doc, Call for Scribes
-- => 45m: [#125 Malicious Partitioning Without Sorting](https://github.com/patcg/meetings/issues/125)
-- => 1h: [#115 Cross device attribution options](https://github.com/patcg/meetings/issues/115)
+- => 45m: #125 Malicious Partitioning Without Sorting
+- => 1h: #115 Cross device attribution options
 - == 1h: Lunch
-- => 45m: [#127 Privacy Budgets in IPA](https://github.com/patcg/meetings/issues/127)
-- => 25m: [#128 Short presentation on label DP results](https://github.com/patcg/meetings/issues/128)
-- == 45m: [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- => 45m: #127 Privacy Budgets in IPA
+- => 25m: #128 Short presentation on label DP results
+- == 45m: Continue Baseline Requirements Review
 - 15m break
-- <= 1h 50m: [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
+- <= 1h 50m: Continue Baseline Requirements Review
 - <= 15m: Future Meeting Planning / Wrap up.
 
 ## Read All about It!
