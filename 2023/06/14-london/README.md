@@ -81,8 +81,9 @@ Link: https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09
 - => 20m: PATWG Updates
 - <= 25m: TPAC Review 
 - == 30m: [#123 TEE vs MPC for trusted servers](https://github.com/patcg/meetings/issues/123)
-- 15m Break
 - => 1h: [#124 Threat Model for First Party Data](https://github.com/patcg/meetings/issues/124)
+- 15m Break
+- == 30m: [#129 Methods for measuring privacy risk](https://github.com/patcg/meetings/issues/129)
 - => 30m: Open Discussion / Next day planning
 
 ### Day 2
@@ -91,7 +92,6 @@ Link: https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09
 - => 45m: [#125 Malicious Partitioning Without Sorting](https://github.com/patcg/meetings/issues/125)
 - => 1h: [#115 Cross device attribution options](https://github.com/patcg/meetings/issues/115)
 - == 1h: Lunch
-- == 30m: [#129 Methods for measuring privacy risk](https://github.com/patcg/meetings/issues/129)
 - => 45m: [#127 Privacy Budgets in IPA](https://github.com/patcg/meetings/issues/127)
 - => 25m: [#128 Short presentation on label DP results](https://github.com/patcg/meetings/issues/128)
 - == 45m: [Continue Baseline Requirements Review](https://github.com/patcg/meetings/issues/91)
