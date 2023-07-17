@@ -35,13 +35,13 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 1
 
 - <= 30m: Hellos, Intros, Google Doc, Call for Scribes
-- <= 30m: Reviewing current state of WG charter
 - Call for reports from sub-groups. 
 - Continue Baseline Requirements Review
 
 ### Day 2
 
 - <= 15m: Hellos, Google Doc, Call for Scribes
+- <= 30m: Reviewing current state of WG charter
 - Continue Baseline Requirements Review
 
 ## Minutes
