@@ -41,6 +41,10 @@ TBD
 
 TBD
 
+## W3C Read All About It!
+
+[W3C Policy Slide](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pd)
+
 ## Minutes
 
 TBD
