@@ -37,6 +37,11 @@ The 2nd session is 2 hours.
 
 Zoom: TBD
 
+## Slide Deck Template
+
+If you plan to generate slides for this meeting, then please use the following template:
+[TPAC Template](https://www.w3.org/2023/Talks/TPAC/Templates/).
+
 ## Agenda
 
 ### Session 1
