@@ -46,11 +46,19 @@ If you plan to generate slides for this meeting, then please use the following t
 
 ### Session 1
 
-TBD
+- == 15m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
+- => 30m: [#146 Results of IPA Pilot in IMDA PET Sandbox](https://github.com/patcg/meetings/issues/146)
+- => 45m: [#143 Discuss proposal to use Prio-like architecture for advertising attribution](https://github.com/patcg/meetings/issues/143) [Read up on proposal](https://github.com/patcg-individual-drafts/private-ad-measurement)
 
 ### Session 2
 
-TBD
+- == 15m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
+- <= 15m: [Resolve WG PRs](https://github.com/patcg/meetings/issues/145) [See](https://github.com/patcg/patwg-charter/pulls)
+- <= 15m: Break (optional)
+- == 75m: [#144 Comparative analysis of measurement options](https://github.com/patcg/meetings/issues/144)
+- In the event there is extra time: 
+	- [#149 Mitigating the effects of ad fraud in measurement results](https://github.com/patcg/meetings/issues/149) 
+	- [#141 Baseline Discussion on Third Parties](https://github.com/patcg/meetings/issues/141)
 
 ## W3C Read All About It!
 
