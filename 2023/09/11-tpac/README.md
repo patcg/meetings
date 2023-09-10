@@ -48,7 +48,7 @@ If you plan to generate slides for this meeting, then please use the following t
 
 - == 15m: Hellos, Intros, Physical space ground rules, Google Doc, Call for Scribes 
 - => 30m: [#146 Results of IPA Pilot in IMDA PET Sandbox](https://github.com/patcg/meetings/issues/146)
-- => 45m: [#143 Discuss proposal to use Prio-like architecture for advertising attribution](https://github.com/patcg/meetings/issues/143) [Read up on proposal](https://github.com/patcg-individual-drafts/private-ad-measurement)
+- => 45m: [#143 Discuss proposal to use Prio-like architecture for advertising attribution](https://github.com/patcg/meetings/issues/143) [Read up on proposal](https://github.com/patcg-individual-drafts/private-ad-measurement) [Slides](https://github.com/patcg-individual-drafts/private-ad-measurement/blob/main/External%20Private%20Ad%20Measurement.pdf)
 
 ### Session 2
 
