@@ -35,7 +35,8 @@ The 2nd session is 2 hours.
 
 ## Joining Information
 
-Zoom: TBD
+Same link for both sessions
+Zoom: https://w3c.zoom.us/j/4415985829?pwd=MVdQRHI2ZndSRFltVXVuZ0pBZThQQT09
 
 ## Slide Deck Template
 
@@ -66,4 +67,4 @@ If you plan to generate slides for this meeting, then please use the following t
 
 ## Minutes
 
-TBD
+Minutes: https://docs.google.com/document/d/1o6FDdzMSCVcd3yHjgmjSrOn1KWxE4R1xXVsmLh29xDw/edit?usp=sharing
