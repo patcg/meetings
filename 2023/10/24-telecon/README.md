@@ -48,3 +48,40 @@ TBD
 ## Minutes
 
 TBD
+
+### Scribes
+
+Tuesday:
+
+
+Thursday: 
+
+
+## Agenda
+
+### Day 1 
+
+<= 10m: Hellos, Intros, Google Doc, Call for Scribes
+- [Policy Slides](https://github.com/patcg/meetings/blob/main/2023/03/21-telecon/W3C%20Read%20All%20About%20It!.pdf)  
+
+=> 20m: [Complementary results on Private conversion measurement using label-DP - #148](https://github.com/patcg/meetings/issues/148)
+
+=> 60m: [What data do we need to calculate the impact of use at scale? - #153](https://github.com/patcg/meetings/issues/153)
+
+=> 30m: [WALR - Weighted Aggregate Logistic Regression #154](https://github.com/patcg/meetings/issues/154)
+
+<= 60m: [Experiment to better understand the effect of DP on advertising decision making - #155](https://github.com/patcg/meetings/issues/155)
+
+### Day 2 
+
+<= 10m: Hellos, Intros, Google Doc, Call for Scribes
+- [Policy Slides](https://github.com/patcg/meetings/blob/main/2023/03/21-telecon/W3C%20Read%20All%20About%20It!.pdf)
+
+<= 20m: PATWG Status Update
+
+=> 10m: [Update from the Empirical Privacy Metrics task force](https://github.com/patcg/meetings/issues/137)
+
+=> 60m: [Update on Steel man of proposals](https://github.com/patcg/meetings/issues/152). 
+- [Notes from TPAC](https://docs.google.com/document/d/1wVsFRDEUgJT-b-j-nYn8b0PXdPIKPmCOraT8R5fHAmI/edit?usp=sharing)
+
+=> 60m: [Review Baseline Requirements for Private Measurement](https://github.com/patcg/meetings/issues/141)
