@@ -79,6 +79,8 @@ Thursday:
 
 <= 20m: PATWG Status Update
 
+== 15m: [2024 Meeting Locations](https://github.com/patcg/meetings/issues/157)
+
 => 10m: [Update from the Empirical Privacy Metrics task force](https://github.com/patcg/meetings/issues/137)
 
 => 60m: [Update on Steel man of proposals](https://github.com/patcg/meetings/issues/152). 
