@@ -31,16 +31,6 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 [Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
 
-## Agenda
-
-### Day 1
-
-TBD
-
-### Day 2
-
-TBD
-
 ## W3C Read All About It!
 
 [W3C Policy Slide](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pd)
@@ -52,6 +42,7 @@ TBD
 ### Scribes
 
 Tuesday:
+- Martin
 
 
 Thursday: 
