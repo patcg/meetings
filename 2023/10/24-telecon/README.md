@@ -61,6 +61,8 @@ Thursday:
 
 => 30m: [WALR - Weighted Aggregate Logistic Regression #154](https://github.com/patcg/meetings/issues/154)
 
+- [Presentation](https://github.com/patcg/meetings/blob/main/2023/10/24-telecon/Weighted%20Aggregate%20Logistic%20Regression%20(WALR).pdf)
+
 <= 60m: [Experiment to better understand the effect of DP on advertising decision making - #155](https://github.com/patcg/meetings/issues/155)
 
 ### Day 2 
