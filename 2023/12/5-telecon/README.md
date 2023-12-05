@@ -1,6 +1,6 @@
 # December 5 & 7 2023 Virtual Meeting
 
-The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
+The Private Advertising Technology Community Group's meeting will be meeting one day for 3 hours.
 
 ## Schedule
 
@@ -17,14 +17,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ### Day 2 Start
 
-| Time          | Day    | Location      |
-| ------------- | ------ | ------------- |
-| 18:00 (06 PM) | 07 Thu | Sydney        |
-| 16:00 (04 PM) | 07 Thu | Tokyo         |
-| 08:00 (08 AM) | 07 Thu | Brussels      |
-| 07:00 (07 AM) | 07 Thu | London        |
-| 02:00 (03 AM) | 07 Thu | Boston        |
-| 23:00 (11 PM) | 06 Wed | Seattle       |
+Canceled!
 
 ## Joining Information
 
@@ -61,4 +54,4 @@ Thursday:
 
 ### Day 2
 
-May drop if time is not needed. 
+Canceled.
