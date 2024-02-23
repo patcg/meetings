@@ -35,10 +35,15 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 1
 
 - <= 30m: Hellos, Intros, Google Doc, Call for Scribes
-- Call for reports from sub-groups. 
-- TBD
+- 5m == Call for reports from sub-groups. Reports (if any) will be reviewed on day 2.
+- => 45m: [Update on IPA implementation #165](https://github.com/patcg/meetings/issues/165)
+- 10m Break
+- 75m: [Accountability designs for aggregated attribution #162](https://github.com/patcg/meetings/issues/162)
+- 15m: Overflow
 
 ### Day 2
 
 - <= 15m: Hellos, Google Doc, Call for Scribes
-- TBD
+- => 30m: [Baseline Discussion on Third Parties #141](https://github.com/patcg/meetings/issues/141)
+- => 30m: [Review baseline requirements for Private Measurement from participants #91](https://github.com/patcg/meetings/issues/91)
+- Remainder: Overflow and reports
