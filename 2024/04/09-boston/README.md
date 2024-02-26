@@ -10,23 +10,23 @@ and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
-| 23:00 (11 PM) | 09 Mon | Sydney        |
-| 22:00 (10 PM) | 09 Mon | Tokyo         |
-| 15:00 (03 PM) | 09 Mon | Brussels      |
-| 14:00 (02 PM) | 09 Mon | London        |
-| 09:00 (09 AM) | 09 Mon | Boston        |
-| 06:00 (06 AM) | 09 Mon | Seattle       |
+| 23:00 (11 PM) | 09 Tue | Sydney        |
+| 22:00 (10 PM) | 09 Tue | Tokyo         |
+| 15:00 (03 PM) | 09 Tue | Brussels      |
+| 14:00 (02 PM) | 09 Tue | London        |
+| 09:00 (09 AM) | 09 Tue | Boston        |
+| 06:00 (06 AM) | 09 Tue | Seattle       |
 
 ### Day 2 Start
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
-| 23:00 (11 PM) | 10 Mon | Sydney        |
-| 22:00 (10 PM) | 10 Mon | Tokyo         |
-| 15:00 (03 PM) | 10 Mon | Brussels      |
-| 14:00 (02 PM) | 10 Mon | London        |
-| 09:00 (09 AM) | 10 Mon | Boston        |
-| 06:00 (06 AM) | 10 Mon | Seattle       |
+| 23:00 (11 PM) | 10 Wed | Sydney        |
+| 22:00 (10 PM) | 10 Wed | Tokyo         |
+| 15:00 (03 PM) | 10 Wed | Brussels      |
+| 14:00 (02 PM) | 10 Wed | London        |
+| 09:00 (09 AM) | 10 Wed | Boston        |
+| 06:00 (06 AM) | 10 Wed | Seattle       |
 
 ## Joining Information
 
