@@ -44,6 +44,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ### Day 2
 
 - <= 15m: Hellos, Google Doc, Call for Scribes
+- => 45m: [On-device DP Budgeting #166](https://github.com/patcg/meetings/issues/166)
 - => 30m: [Baseline Discussion on Third Parties #141](https://github.com/patcg/meetings/issues/141)
 - => 30m: [Review baseline requirements for Private Measurement from participants #91](https://github.com/patcg/meetings/issues/91)
 - Remainder: Overflow and reports
