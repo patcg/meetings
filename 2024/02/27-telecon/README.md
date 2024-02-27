@@ -29,6 +29,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 ## Joining Information
 
 [Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
+[Google Doc](https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit?usp=sharing)
 
 ## Agenda
 
