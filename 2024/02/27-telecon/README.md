@@ -40,6 +40,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - => 45m: [Update on IPA implementation #165](https://github.com/patcg/meetings/issues/165)
 - 10m Break
 - 75m: [Accountability designs for aggregated attribution #162](https://github.com/patcg/meetings/issues/162)
+- => 30m: [Baseline Discussion on Third Parties #141](https://github.com/patcg/meetings/issues/141)
 - 15m: Overflow
 
 ### Day 2
@@ -48,6 +49,5 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - <= 45m: [On-device DP Budgeting #166](https://github.com/patcg/meetings/issues/166)
 - 10m break
 - == 30m: [IAB Tech Lab Privacy Sandbox Q&A #167](https://github.com/patcg/meetings/issues/167)
-- => 30m: [Baseline Discussion on Third Parties #141](https://github.com/patcg/meetings/issues/141)
 - => 30m: [Review baseline requirements for Private Measurement from participants #91](https://github.com/patcg/meetings/issues/91)
 - Remainder: Overflow and reports
