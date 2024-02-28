@@ -51,3 +51,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - == 30m: [IAB Tech Lab Privacy Sandbox Q&A #167](https://github.com/patcg/meetings/issues/167)
 - => 30m: [Review baseline requirements for Private Measurement from participants #91](https://github.com/patcg/meetings/issues/91)
 - Remainder: Overflow and reports
+
+## Minutes
+
+https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit#heading=h.48lwuq3wupr2
