@@ -36,11 +36,11 @@ and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 
 ### Day 1
 
-- <= 30m: Hellos, Intros, Google Doc, Call for Scribes
+- <= 30m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
 - Call for reports from sub-groups. 
 - TBD
 
 ### Day 2
 
-- <= 15m: Hellos, Google Doc, Call for Scribes
+- <= 15m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
 - TBD
