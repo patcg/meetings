@@ -35,7 +35,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ### Day 1
 
-- <= 30m: Hellos, Intros, Google Doc, Call for Scribes
+- <= 30m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), [Minutes Doc](https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit#heading=h.48lwuq3wupr2), Call for Scribes
 - 5m == Call for reports from sub-groups. Reports (if any) will be reviewed on day 2.
 - => 45m: [Update on IPA implementation #165](https://github.com/patcg/meetings/issues/165)
 - 10m Break
@@ -44,7 +44,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ### Day 2
 
-- <= 15m: Hellos, Google Doc, Call for Scribes
+- <= 15m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), [Minutes Doc](https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit#heading=h.48lwuq3wupr2), Call for Scribes
 - <= 45m: [On-device DP Budgeting #166](https://github.com/patcg/meetings/issues/166)
 - 10m break
 - == 30m: [IAB Tech Lab Privacy Sandbox Q&A #167](https://github.com/patcg/meetings/issues/167)
@@ -55,4 +55,4 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Minutes
 
-https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit#heading=h.48lwuq3wupr2
+[Minutes Doc](https://docs.google.com/document/d/1YB3QTwCaPW5JG3itbyE2x8_5b7h_bCjKJQ7n0A65zhU/edit#heading=h.48lwuq3wupr2)
