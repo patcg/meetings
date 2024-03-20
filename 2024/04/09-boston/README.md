@@ -32,6 +32,8 @@ and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 
 [Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
 
+[In Person Attendance Form](https://forms.gle/DdXy76zkS7Fetri96)
+
 ## Agenda
 
 ### Day 1
