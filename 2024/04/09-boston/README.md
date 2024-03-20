@@ -1,7 +1,7 @@
 # Boston 2024 F2F Meeting
 
 The Private Advertising Technology Community Group will be meeting at a Google
-office in Cambridge, MA in a hybrid format; we will support both in-person
+office in Cambridge, MA @ [325 Main St, Cambridge, MA 02142, USA](https://www.google.com/maps/place/3+Cambridge+Center,+325+Main+St,+Cambridge,+MA+02142,+USA/@42.3627425,-71.0892198,17z/data=!4m6!3m5!1s0x89e370af44628cff:0xcfd09c24768fd222!8m2!3d42.3627386!4d-71.0866395!16s%2Fg%2F1_lx8f46?entry=ttu). in a hybrid format; we will support both in-person
 and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 
 ## Schedule
