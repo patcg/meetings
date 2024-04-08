@@ -38,11 +38,27 @@ and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 
 ### Day 1
 
-- <= 30m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
-- Call for reports from sub-groups. 
-- TBD
+(Times local)
+
+- <= 30m (9:00): Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
+- => 30m (9:30): Call for reports from sub-groups. [#176](https://github.com/patcg/meetings/issues/176)
+  - Effect of Noise on Advertising Decision Making @eriktaubeneck
+  - Privacy Principles for Web Advertising Features @npdoty
+- == 30m (10:00): Privacy Metrics Task Force Empirical Privacy Report [#171](https://github.com/patcg/meetings/issues/171) - @tercer
+- == 15m (10:30): Break
+- => 45m (10:45): Privacy Sandbox adoption stats [#172](https://github.com/patcg/meetings/issues/172) - @garjoh
+- => 45m (11:30am): Discussion on Helper Party Network (HPN) Trust Configuration [#173](https://github.com/patcg/meetings/issues/173) - @eriktaubeneck
+- == 1h 15m (12:15): Lunch
+- => 2h (13:30): Hybrid Proposal Design part 1 [#175](https://github.com/patcg/meetings/issues/175) - @bmcase
+- <= 30m (15:30): Followup, Additional Questions, etc... Margin space for stuff to run long, which seems likely.
 
 ### Day 2
 
-- <= 15m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
-- TBD
+- <= 15m (9:00): Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
+- => 1h 15m (9:15): Hybrid Proposal Design part 2 [#175](https://github.com/patcg/meetings/issues/175) - @bmcase
+- == 15m (10:30): Break
+- => 1h 15m (10:45) - Hybrid Proposal Design part 3 [#175](https://github.com/patcg/meetings/issues/175) - @bmcase
+- == 1h 15m (12:00): Lunch
+- == 15m (13:15): TPAC Planning
+- == 1h 30m (13:30): [PR Closing Time](https://github.com/patcg/meetings/issues/177)
+- 15:00-16:00 (currently open for follow up items)
