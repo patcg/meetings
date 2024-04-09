@@ -61,8 +61,9 @@ and remote attendees. Each day the meeting will last for 7 hours (with breaks).
 - == 1h 15m (12:00): Lunch
 - == 15m (13:15): TPAC Planning
 - == 1h 30m (13:30): [PR Closing Time](https://github.com/patcg/meetings/issues/177)
-- 15:00-16:00 (currently open for follow up items)
+- == 30m (15:30): [#179](https://github.com/patcg/meetings/issues/179)
+- 15:30-16:00 (currently open for follow up items)
 
 ### Minutes
 
-https://docs.google.com/document/d/1MQOTyZfOil5eWncSpAIvf_HIDINytn8kMwh0dQsX5Ic/edit?usp=sharing
+[Minutes](https://docs.google.com/document/d/1MQOTyZfOil5eWncSpAIvf_HIDINytn8kMwh0dQsX5Ic/edit?usp=sharing)
