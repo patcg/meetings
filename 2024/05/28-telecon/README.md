@@ -19,18 +19,22 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
-| 23:00 (11 PM) | 30 Wed | Sydney        |
-| 22:00 (10 PM) | 30 Wed | Tokyo         |
-| 15:00 (03 PM) | 30 Wed | Brussels      |
-| 14:00 (02 PM) | 30 Wed | London        |
-| 09:00 (09 AM) | 30 Wed | Boston        |
-| 06:00 (06 AM) | 30 Wed | Seattle       |
+| 23:00 (11 PM) | 30 Thu | Sydney        |
+| 22:00 (10 PM) | 30 Thu | Tokyo         |
+| 15:00 (03 PM) | 30 Thu | Brussels      |
+| 14:00 (02 PM) | 30 Thu | London        |
+| 09:00 (09 AM) | 30 Thu | Boston        |
+| 06:00 (06 AM) | 30 Thu | Seattle       |
 
 ## Joining Information
 
 [Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
 
 [Slack](https://www.w3.org/wiki/Slack)
+
+## Minutes
+
+[Minutes](https://docs.google.com/document/d/1FwY7hNCPXVGMDug6i8KoZvXW3lm65GlFwe6LuPjShvk/edit)
 
 ## Agenda
 
