@@ -38,5 +38,10 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 ## Agenda
 
-TBD
+### Day 1
+
+- <= 30m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), Google Doc, Call for Scribes
+- => 30m: Call for reports from sub-groups.
+- => 1h: Updates on IPA, ARA, PAM, and efforts to merge them [#181](https://github.com/patcg/meetings/issues/181) - @martinthomson
+- == 15m: Break
 
