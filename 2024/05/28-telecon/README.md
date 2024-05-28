@@ -1,6 +1,6 @@
 # May  2024 Virtual Meeting
 
-The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours at the same time both days.
+The Private Advertising Technology Community Group's meeting will be meeting one day for 3 hours.
 
 ## Schedule
 
@@ -15,16 +15,7 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 | 09:00 (09 AM) | 28 Tue | Boston        |
 | 06:00 (06 AM) | 28 Tue | Seattle       |
 
-### Day 2 Start
-
-| Time          | Day    | Location      |
-| ------------- | ------ | ------------- |
-| 23:00 (11 PM) | 30 Thu | Sydney        |
-| 22:00 (10 PM) | 30 Thu | Tokyo         |
-| 15:00 (03 PM) | 30 Thu | Brussels      |
-| 14:00 (02 PM) | 30 Thu | London        |
-| 09:00 (09 AM) | 30 Thu | Boston        |
-| 06:00 (06 AM) | 30 Thu | Seattle       |
+### Day 2 Canceled
 
 ## Joining Information
 
@@ -45,3 +36,6 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 - => 1h: Updates on IPA, ARA, PAM, and efforts to merge them [#181](https://github.com/patcg/meetings/issues/181) - @martinthomson
 - == 15m: Break
 
+### Day 2
+
+Canceled
