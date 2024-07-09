@@ -1,4 +1,6 @@
-# July 16 & 18 2024 Virtual Meeting
+# ~~July 16 & 18 2024 Virtual Meeting~~
+
+**This meeting was canceled due to lack of agenda items**
 
 The Private Advertising Technology Community Group's meeting will be meeting two days for 3 hours.
 
