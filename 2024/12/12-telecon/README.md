@@ -19,12 +19,12 @@ The Private Advertising Technology Community Group's meeting will be meeting two
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
-| 01:00 (01 AM) | 18 Fri | Sydney        |
-| 23:00 (11 PM) | 17 Thu | Tokyo         |
-| 15:00 (03 PM) | 17 Thu | Brussels      |
-| 14:00 (02 PM) | 17 Thu | London        |
-| 09:00 (09 AM) | 17 Thu | Boston        |
-| 06:00 (06 AM) | 17 Thu | Seattle       |
+| 01:00 (01 AM) | 20 Fri | Sydney        |
+| 23:00 (11 PM) | 19 Thu | Tokyo         |
+| 15:00 (03 PM) | 19 Thu | Brussels      |
+| 14:00 (02 PM) | 19 Thu | London        |
+| 09:00 (09 AM) | 19 Thu | Boston        |
+| 06:00 (06 AM) | 19 Thu | Seattle       |
 
 ## Joining Information
 
