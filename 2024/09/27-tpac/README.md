@@ -1,4 +1,4 @@
-# September 2023 TPAC Meeting
+# September 2024 TPAC Meeting
 
 The Private Advertising Technology Community Group will be meeting at [TPAC 2024](https://www.w3.org/202409/TPAC/) in Anaheim, California in a hybrid format, in-person and on Zoom. One session is [scheduled](https://www.w3.org/2024/09/TPAC/schedule.html#friday).
 
