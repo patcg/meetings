@@ -23,7 +23,25 @@ TBD
 
 ## Agenda
 
-TBD
+(Times local)
+
+### Section 1 
+
+- (9-9:30) Welcome, Hellos, Intros, Policies, Google Doc, Call for Scribes
+- (9:30-10:15) Learning using aggregation APIs [#192](https://github.com/patcg/meetings/issues/192) - @mvono
+- (10:15-11:15) Attribution Level 1 (Part 1) ([#191](https://github.com/patcg/meetings/issues/191)) - @martinthomson 
+- (11:15-11:20) Break
+- (11:20-12:20)Attribution Level 1 (Part 2) ([#191](https://github.com/patcg/meetings/issues/191)) - @benjaminsavage 
+
+- (12:20-1:30) Lunch
+
+### Section 2 
+
+- (1:30-2:15) Updates on Chrome's Attribution Reporting API [#193](https://github.com/patcg/meetings/issues/193) - @hpatoski 
+- (2:15-2:45) Attribution Level 1 (Part 3) ([#191](https://github.com/patcg/meetings/issues/191))
+- (2:45-3:15) What DSPs need [#190](https://github.com/patcg/meetings/issues/190) @tprieur
+- (3:15-3:45) Learning inside a trusted server ([#187](https://github.com/patcg/meetings/issues/187)) @fhoering 
+- (3:45-4) Working Group update
 
 ## W3C Read All About It!
 
