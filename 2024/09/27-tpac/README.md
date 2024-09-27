@@ -19,7 +19,7 @@ The session is scheduled from 09:00-16:00 (09:00 AM - 04:00 PM) local time. Two 
 
 ## Joining Information
 
-TBD
+[Zoom Link](https://www.w3.org/events/meetings/6fe0ca25-56c5-4ac4-8a87-bd1e231d24ae/)
 
 ## Agenda
 
