@@ -51,4 +51,4 @@ TBD
 
 ## Minutes
 
-Minutes: TBD
+[Minutes](https://docs.google.com/document/d/1iWE_GGHkJKMQHO9zbwBjM-yag_3nI3PSq0OVdHMVKsk/edit?usp=sharing)
