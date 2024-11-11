@@ -39,7 +39,10 @@ Google Doc: TBD
 
 ### Day 1
 
-TBD
+- <= 30m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+- <= 60m: [Results from Live Test of IPA #198](https://github.com/patcg/meetings/issues/198) - @eriktaubeneck
+- => 60m: [Delegation options for PPA #199](https://github.com/patcg/meetings/issues/199) - @benjaminsavage
+- <= 30m: PATWG, Wrap-up, Do we need a day 2? 
 
 ### Day 2
 
