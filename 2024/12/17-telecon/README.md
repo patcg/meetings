@@ -17,7 +17,7 @@ NOTE: Days 2 of the meeting is going to be the 1st PATWG meeting; see [PATWG Mee
 | 09:00 (09 AM) | 17 Tue | Boston        |
 | 06:00 (06 AM) | 17 Tue | Seattle       |
 
-### Day 1 Start (PATWG)
+### Day 2 Start (PATWG)
 
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
@@ -43,7 +43,29 @@ Google Doc: TBD
 
 ### Day 1
 
-TBD
+- <= 30m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+- => 15m: How to manage delegation of capabilities [#206](https://github.com/patcg/meetings/issues/206) - @martinthomson
+- => 30m: Attaching API calls to HTTP exchanges [#205](https://github.com/patcg/meetings/issues/205) - @martinthomson
+- <= 30m: Participating in PATWG [#202](https://github.com/patcg/meetings/issues/202) - @seanturner and @aramzs
+- <= 15m: Transfer PPA-API and PATWG Charter Repos to PATWG [#203](https://github.com/patcg/meetings/issues/203) - @seanturner and @aramzs
+- <= 45m: Discussion of billing analytics [#188](https://github.com/patcg/meetings/issues/188) - @wbl
+
+### Day 2
+
+- Discuss W3C mechanics for working group. [#208](https://github.com/w3c/patwg/issues/1) - @aramzs and @seanturner
+  - <= 10m Modes of working
+  - <= 10m How Invited Experts and W3C members work
+  - <= 10m Talking about working in the new GitHub setup
+
+- == 15m Break 
+
+- Continue Discuss W3C mechanics for working group. [#208](https://github.com/w3c/patwg/issues/1) - @aramzs and @seanturner
+  - <= 10m Adopt PATWG Charter Repo from the PATCG in to the PATWG
+  - <= 10m Adopt PPA-API Repo from the PATCG in to the PATWG
+  - <= 10m Managing Future Specifications
+  - <= 10m Scheduling of Future Meetings
+- == 15m Break
+- <= 1h 20m: Delegation options for PPA [#199](https://github.com/patcg/meetings/issues/199) - @benjaminsavage
 
 ## Minutes
 
