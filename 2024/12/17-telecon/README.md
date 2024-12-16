@@ -32,8 +32,10 @@ NOTE: Days 2 of the meeting is going to be the 1st PATWG meeting; see [PATWG Mee
 
 ## Joining Information
 
-Zoom: TBD
-Google Doc: TBD
+[Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
+
+Slack: [invite](https://www.w3.org/slack-w3ccommunity-invite)
+  Group: “private-advertising-technology-cg”
 
 ## W3C Read All About It!
 
@@ -69,4 +71,4 @@ Google Doc: TBD
 
 ## Minutes
 
-TBD
+[Minutes](https://docs.google.com/document/d/1rvpCaGxJKJo5kLXKIoqCHKqWK-oKMDnI1GEG49DAGGE/edit?usp=sharing)
