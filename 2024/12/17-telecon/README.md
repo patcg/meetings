@@ -68,7 +68,7 @@ Slack: [invite](https://www.w3.org/slack-w3ccommunity-invite)
   - <= 10m Managing Future Specifications
   - <= 10m Scheduling of Future Meetings
 - == 15m Break
-- <= 1h 20m: Delegation options for PPA [#199](https://github.com/patcg/meetings/issues/199) - @benjaminsavage
+- Q&A
 
 ## Minutes
 
