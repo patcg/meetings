@@ -37,9 +37,8 @@ NOTE: Days 2 of the meeting is going to be the 1st PATWG meeting; see [PATWG Mee
 [Day 2 Zoom](https://w3c.zoom.us/j/87272624750?pwd=ewS0OqZn3GyJLiphD96R1X8wXPbNtv.1)
 
 Slack: [invite](https://www.w3.org/slack-w3ccommunity-invite)
-
-  CG: “private-advertising-technology-cg”
-  WG: "patwg"
+* CG: “private-advertising-technology-cg”
+* WG: "patwg"
   
 ## W3C Read All About It!
 
