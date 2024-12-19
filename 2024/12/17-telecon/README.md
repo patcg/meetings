@@ -57,7 +57,8 @@ Slack: [invite](https://www.w3.org/slack-w3ccommunity-invite)
 
 ### Day 2
 
-- Discuss W3C mechanics for working group. [#208](https://github.com/w3c/patwg/issues/1) - @aramzs and @seanturner
+- <= 30m: Hellos, Intros, Policies, Call for Scribes
+- <= 30m: Discuss W3C mechanics for working group. [#208](https://github.com/w3c/patwg/issues/1) - @aramzs and @seanturner
   - <= 10m Modes of working
   - <= 10m How Invited Experts and W3C members work
   - <= 10m Talking about working in the new GitHub setup
