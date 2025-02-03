@@ -29,8 +29,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-TBD
+N/A
 
 ## Minutes
 
-TBD
+This meeting was canceled.
