@@ -2,10 +2,10 @@
 
 Meeting materials for the Private Advertising Technology Community Group
 
-Meetings are minuted on a shared document and maintain an on-record back-channel held on IRC in [#patcg](https://irc.w3.org/?channels=patcg)
+Meetings are minuted on a shared document and maintained in Google Doc; see meeting repo for links. The CG also uses slack:
 
-- [W3 guide to working with IRC](https://www.w3.org/wiki/IRC)
-- [Tips on how to work with IRC from TPAC](https://github.com/immersive-web/administrivia/blob/main/IRC.md)
+Slack invite: https://www.w3.org/slack-w3ccommunity-invite
+Our group is called “private-advertising-technology-cg”
 
 Issues can be opened in this repository to add to meeting agendas. Please use the appropriate label or issue template when you open an issue to mark it as `agenda+`. 
 
