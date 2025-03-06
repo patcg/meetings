@@ -1,4 +1,4 @@
-# January 2025 Virtual Meeting
+# April 2025 Virtual Meeting
 
 The Private Advertising Technology Community Group will meet for one day for 2 hours on 2025-04-17; 2025-04-18 for some timezones.
 
@@ -30,7 +30,3 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 ## Agenda
 
 N/A
-
-## Minutes
-
-TBD
