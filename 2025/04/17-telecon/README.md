@@ -22,6 +22,8 @@ The Private Advertising Technology Community Group will meet for one day for 2 h
 [Zoom](https://w3c.zoom.us/j/82659868398?pwd=R2wyMlVzVGcwcmZJb1BpZmdDc2crUT09)
 
 Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising-technology-cg ([invite](https://www.w3.org/slack-w3ccommunity-invite))
+
+Minutes: [Here](https://docs.google.com/document/d/1LGX-ZGAL2Z-tQW-3HM5Y8U-KiDepKxs69ixFoeyT3JI/edit?usp=sharing)
   
 ## W3C Read All About It!
 
@@ -29,4 +31,9 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-N/A
+<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+
+<= 1hr: ARA differential privacy analysis
+
+Q&A
+
