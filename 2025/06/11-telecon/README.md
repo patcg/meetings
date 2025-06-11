@@ -35,4 +35,4 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Minutes
 
-Minutes: [Here](https://docs.google.com/document/d/1fJiijwSOq6UVvyxwzKxX9Yf6kZrJU79GxFOBnbptKm8/edit?usp=sharing)
+Minutes: [Here](https://docs.google.com/document/d/1fJiijwSOq6UVvyxwzKxX9Yf6kZrJU79GxFOBnbptKm8/edit?tab=t.0)
