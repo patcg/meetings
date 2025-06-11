@@ -30,7 +30,9 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 ## Agenda
 
 * Introductions, Code of Conduct, Minutes Document, Scribes
-* Updates on Privacy Sandbox
+* Updates on Privacy Sandbox [#221](https://github.com/patcg/meetings/issues/221)
+* Public dataset to benchmark private advertising proposals [#223](https://github.com/patcg/meetings/issues/223)
+* TPAC Planning: Shooting for one session Thursday or Friday near WG
 * AOB
 
 ## Minutes
