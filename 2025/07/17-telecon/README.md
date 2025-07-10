@@ -1,4 +1,4 @@
-# April 2025 Virtual Meeting
+# July 2025 Virtual Meeting
 
 The Private Advertising Technology Community Group will meet for one day for 2 hours on 2025-07-17; 2025-07-18 for some timezones.
 
