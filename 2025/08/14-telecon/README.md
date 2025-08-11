@@ -33,4 +33,4 @@ TBD
 
 ## Minutes
 
-[Minutes](https://docs.google.com/document/d/1v0qduF4GtQUzeKmm9DGCQJO0SyyGWg9Q0BLg2hPcnZc/edit?usp=sharing)
+The meeting was canceled.
