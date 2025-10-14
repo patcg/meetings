@@ -29,7 +29,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-TBD
+<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+<= 60m [AdTech Feedback for a Proposed NIST Differential Privacy Deployment Registry](https://github.com/patcg/meetings/issues/230)
 
 ## Minutes
 
