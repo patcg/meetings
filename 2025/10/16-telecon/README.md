@@ -31,8 +31,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 <= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes\
 <= 60m [AdTech Feedback for a Proposed NIST Differential Privacy Deployment Registry](https://github.com/patcg/meetings/issues/230)\
->= 15m [Remove single-value AttributionLogic enum and inline credit field w3c/attribution#276](https://github.com/w3c/attribution/pull/276)\
->= 15m [Prio benchmarks and communication cost w3c/attribution#256](https://github.com/w3c/attribution/issues/256)
+=> 15m [Remove single-value AttributionLogic enum and inline credit field w3c/attribution#276](https://github.com/w3c/attribution/pull/276)\
+=> 15m [Prio benchmarks and communication cost w3c/attribution#256](https://github.com/w3c/attribution/issues/256)
 
 ## Minutes
 
