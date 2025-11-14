@@ -31,9 +31,10 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 - <= 15m: Hellos, Intros, Policies, Google Doc, Call for Scribes
 - <= 30m: [Attestations for Private Attribution](https://github.com/patcg/meetings/issues/235)
-- => 30m: Progress of recommendation / Level 2
+- => 30m: [Progress of recommendation / Level 2](https://github.com/w3c/patwg/issues/67)
     - Related: [Attribution #204](https://github.com/w3c/attribution/issues/204)
-- => 30m: Call for inputs, discussion of where, how and when to give feedback as Level 1 progresses towards publication.
+- => 30m: Call for inputs, discussion of where, how and when to give feedback as Level 1 progresses towards publication
+    - Related: [Tickets from Attribution that have been brought up for CG Feedback](https://github.com/patcg/meetings/issues/232)
 - <= TBD
 
 ## Minutes
