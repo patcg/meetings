@@ -1,5 +1,7 @@
 # December 2025 Virtual Meeting
 
+Meeting canceled.
+
 The Private Advertising Technology Community Group will meet for 2 hours on 2025-12-11; 2025-12-10 for some timezones.
 
 ## Calendar
