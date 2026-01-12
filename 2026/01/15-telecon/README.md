@@ -1,5 +1,7 @@
 # January 2026 Virtual Meeting
 
+Meeting canceled.
+
 The Private Advertising Technology Community Group will meet for 2 hours on 2026-01-15; 2026-01-16 for some timezones.
 
 ## Calendar
@@ -29,9 +31,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes\
-<= TBD
+This meeting was canceled.
 
 ## Minutes
 
-[Click here for minutes.](https://docs.google.com/document/d/1qIHc-0OGxWRc6cgQif68gARu4HSm3xQTslzXiFAS0z4/edit?usp=sharing)
+This meeting was canceled.
