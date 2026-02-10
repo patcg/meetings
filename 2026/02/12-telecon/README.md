@@ -30,7 +30,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 ## Agenda
 
 <= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes\
-= 110m: TBD
+>= 30m: [Proposed sub-group on optimization query evaluation](https://github.com/patcg/meetings/issues/244)
+~ Remaining: AOB
 
 ## Minutes
 
