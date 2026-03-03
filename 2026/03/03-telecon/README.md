@@ -29,8 +29,11 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes\
-~ Remaining: TBD
+- <= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+- => 60m: Importance of Invalid Traffic (IVT) filtration and current approaches [#237](https://github.com/patcg/meetings/issues/237) - @donivatamazondotcom
+- <= 60m: Discussing Threat Models and Write Ups of Them [#238](https://github.com/patcg/meetings/issues/238) - @donivatamazondotcom
+- <= 15m: In-Person Meeting Plans
+- ~ Remaining: TBD
 
 ## Minutes
 
