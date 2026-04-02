@@ -1,5 +1,3 @@
-
-
 # Private Advertising Technology Community Group Minutes \- 2026-02 Meeting
 
 ## Scribes
@@ -65,3 +63,14 @@ Vinod will have presentation about fraud in the CG meeting next month.
 	  - [ ] Make sure to check in for Feb.
 - [ ] **Brian** (lead), **Aram** (support): Approach IAB Tech Lab for feedback on auditing API
 - [ ] **Vinod**: Write up a threat model for fraud.
+
+## Attendees
+
+1. Aram Zucker-Scharff (The Washington Post)
+2. Roxana Geambasu (Columbia U and part-time Google, here in Columbia faculty capacity)
+3. Michael Kleber (Google Chrome)
+4. Alex Turner (Google Chrome)
+5. Pierre Tholoniat (Google)
+6. Tara Whalen (W3C)
+7. Ehsan Toreini (Samsung)
+8. Benjamin Case (Meta)
