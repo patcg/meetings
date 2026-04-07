@@ -1,5 +1,3 @@
-
-
 # Private Advertising Technology Community Group Minutes \- 2026-03 Meeting
 
 ***We agreed to record this session\!***
@@ -18,8 +16,6 @@
 ## \<= 15m: Hellos, Intros, [Policies](https://github.com/patcg/meetings/blob/main/W3C%20Read%20All%20About%20It!.pdf), [Google Doc](https://docs.google.com/document/d/1l5upphNTLcrvzHbXyiI5842QZh0WHyO0wrLSwSNBQ30/edit?usp=sharing), Action Item Review
 
 ## \=\> 60m: Importance of Invalid Traffic (IVT) filtration and current approaches \#[237](https://github.com/patcg/meetings/issues/237) \- @donivatamazondotcom
-
-*
 
 IVT is Measurement Integrity Slide:
 
@@ -82,5 +78,3 @@ Aram: I do like the idea of surfacing the tools as we go forward. Most valuable 
 3. Michael Kleber (Google Chrome)
 4. Martin Thomson (Mozilla)
 5. Vinod Panicker (Amazon Ads)
-6.
-7.
