@@ -22,7 +22,8 @@ Slack: [w3ccommunity slack](https://w3ccommunity.slack.com/)#private-advertising
 
 ## Agenda
 
-<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes\
+<= 10m: Hellos, Intros, Policies, Google Doc, Call for Scribes
+- [Continuation of the WG agenda](https://github.com/w3c/patwg/blob/main/meetings/2026/10-tpac/10-30-agenda.md)
 >= Open Mic: PPA Comments / Questions
 ~ Remaining: AOB
 
