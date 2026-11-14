@@ -11,7 +11,7 @@ The Private Advertising Technology Community Group will meet for 2 hours on 2026
 | Time          | Day    | Location      |
 | ------------- | ------ | ------------- |
 | 01:00 (01 AM) | 20 Fri | Sydney        |
-| 22:00 (10 PM) | 19 Thr | Tokyo         |
+| 23:00 (11 PM) | 19 Thr | Tokyo         |
 | 15:00 (03 PM) | 19 Thr | Brussels      |
 | 14:00 (02 PM) | 19 Thr | London        |
 | 09:00 (09 AM) | 19 Thr | Boston        |
