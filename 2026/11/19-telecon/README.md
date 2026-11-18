@@ -1,6 +1,6 @@
 # November 2026 Virtual Meeting
 
-The Private Advertising Technology Community Group will meet for 2 hours on 2026-11-19.
+This meeting was canceled.
 
 ## Calendar
 
